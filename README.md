@@ -1,26 +1,61 @@
-In honor of my instructors who are going through the trouble of teaching me data analytics, I have decided to take on the exciting world of sports gambling. WOW 🤩
+# NBA Statistics Web Scraping and Predictive Modeling Project
 
-In all seriousness though, I am going through the process of collecting and gathering as much data as I can from the 
+## Overview
 
-### General notes:
+This project focuses on collecting NBA player statistics from the Proballers website through web scraping and leveraging the gathered data to build a predictive model. The aim is to analyze player performance and develop insights that can contribute to a predictive model for future performance predictions.
 
-The statistics I am collecting is coming from the proballers API. It's one of the website's I found that offer detailed stats on both teams in a detailed recording of player's performance and final score. As well as home teams, and the date. All in a HTML table. Very easy to scrape. Especially with my new found skills on performing such a task. 
+## Project Structure
 
-Some pattern that I found, all game statistics for the first team is found inside of a div with class name **class="home-game__content__entry home-game__content__team-stats__content-team-1"**. Inside that div, another div with class name **class="table__outer"** which for some reason only serves the purpose of holding another div with the name of **class="table__inner** I mean I can't say I would've been able to make something better, but it seems pointless to nest a div like that. Anyhoo.
+- data_scraping: Contains scripts for web scraping NBA statistics from Proballers.
 
-We can find divs with these exact same class names inside of the second div for the second table with class name **class="home-game__content__entry home-game__content__team-stats__content-team-2"**. These tables show all I wish to know for know. Most of these are beyond what I know in terms of basketball. The first table shows either the home team or the winning team. 
+- data_analysis: Jupyter notebooks or Python scripts for exploratory data analysis (EDA) and feature engineering.
 
-Let me make a table for these classes hold on...
+- modeling: Code for building and evaluating predictive models.
 
-| element                           | class name                                                                       |
-| --------------------------------- | -------------------------------------------------------------------------------- |
-| div for team 1                    | class="home-game__content__entry home-game__content__team-stats__content-team-1" |
-| div for team 2                    | class="home-game__content__entry home-game__content__team-stats__content-team-2" |
-| table parent                      | class="table__outer"                                                             |
-| table container (child of parent) | class="table__inner"                                                             |
+- results: Store the results of the predictive models, visualizations, and any other relevant outputs.
 
-Without further a do. Let's get scraping.
+## Prerequisites
 
-[Webscraping](/webscraping_notebook.ipynb)
+Ensure you have the required Python packages by running:
 
+```bash
+pip install re
+pip install pandas
+```
 
+## Data Collection
+
+1. Run the web scraping script in the data_scraping folder to gather NBA player statistics from Proballers.
+
+2. Store the collected data in the data directory.
+
+## Exploratory Data Analysis (EDA)
+
+Explore the collected data using Jupyter notebooks or Python scripts in the data_analysis folder. Perform data cleaning, visualization, and feature engineering to gain insights into the dataset.
+## Modeling
+
+Implement predictive models using machine learning algorithms. The modeling folder contains code for model training, evaluation, and hyperparameter tuning.
+## Results
+
+Store the results of your predictive models, visualizations, and any other relevant outputs in the results directory.
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/flannelmonke/HoopsForecast_Pro.git
+```
+1. Follow the steps in the "Data Collection," "Exploratory Data Analysis," and "Modeling" sections.
+
+2. Use the models for predictions or further analysis.
+
+## Contributing
+
+Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+## Acknowledgments
+
+Proballers website for providing the NBA player statistics.
