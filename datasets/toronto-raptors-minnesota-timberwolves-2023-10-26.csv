@@ -1,0 +1,22 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+DennisSchroder,22,3,7,33,4-9,4-8,47.1%,2-2,100.0%,1,2,2,0,0,1,10,21,TorontoRaptors
+OguguaAnunoby,20,6,1,34,3-4,4-9,53.8%,2-2,100.0%,0,6,2,2,3,2,6,24,TorontoRaptors
+ScottieBarnes,17,8,5,37,5-12,1-4,37.5%,4-6,66.7%,1,7,4,2,5,1,2,21,TorontoRaptors
+PascalSiakam,15,7,6,34,2-12,3-5,29.4%,2-2,100.0%,0,7,2,1,0,2,7,15,TorontoRaptors
+PreciousAchiuwa,8,8,0,24,4-8,0-1,44.4%,0-0,-,3,5,2,0,0,1,-5,9,TorontoRaptors
+JakobPoeltl,7,11,1,24,3-3,0-0,100.0%,1-4,25.0%,3,8,0,1,1,1,8,18,TorontoRaptors
+GaryTrentJr.,5,2,2,27,1-4,1-4,25.0%,0-0,-,0,2,0,1,1,3,3,5,TorontoRaptors
+MalachiFlynn,3,0,2,10,0-2,1-1,33.3%,0-0,-,0,0,2,1,0,4,-14,2,TorontoRaptors
+JalenMcDaniels,0,2,2,16,0-0,0-3,0.0%,0-0,-,0,2,0,1,1,2,-3,3,TorontoRaptors
+GradeyDick,0,0,1,2,0-1,0-0,0.0%,0-0,-,0,0,0,0,0,1,1,0,TorontoRaptors
+TorontoRaptors,97,47,27,240,22-55,14-35,40.0%,11-16,68.8%  ,8,39,14,9,11,18,15,118,TorontoRaptors
+AnthonyEdwards,26,14,1,38,4-20,4-7,29.6%,6-6,100.0%,5,9,2,0,0,1,0,20,MinnesotaTimberwolves
+Karl-AnthonyTowns,19,10,3,36,6-15,2-10,32.0%,1-1,100.0%,2,8,4,0,4,2,-1,15,MinnesotaTimberwolves
+RudyGobert,15,13,1,32,6-12,0-0,50.0%,3-5,60.0%,5,8,2,2,4,3,-11,25,MinnesotaTimberwolves
+MikeConley,11,4,3,31,3-5,1-4,44.4%,2-2,100.0%,1,3,1,1,1,1,-6,14,MinnesotaTimberwolves
+NazReid,10,4,1,24,3-6,0-2,37.5%,4-4,100.0%,1,3,1,0,0,0,1,9,MinnesotaTimberwolves
+KyleAnderson,7,9,5,30,3-8,0-1,33.3%,1-2,50.0%,2,7,1,1,0,0,15,14,MinnesotaTimberwolves
+ShakeMilton,4,3,4,21,0-1,1-4,20.0%,1-2,50.0%,0,3,2,3,0,4,3,7,MinnesotaTimberwolves
+NickeilAlexander-Walker,2,4,2,23,1-2,0-3,20.0%,0-0,-,0,4,1,1,0,3,-17,4,MinnesotaTimberwolves
+TroyBrown,0,1,0,5,0-0,0-0,-,0-0,-,0,1,0,0,0,0,1,1,MinnesotaTimberwolves
+MinnesotaTimberwolves,94,62,20,240,26-69,8-31,34.0%,18-22,81.8%  ,16,46,14,8,9,14,-15,109,MinnesotaTimberwolves

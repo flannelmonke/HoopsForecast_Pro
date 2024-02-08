@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+DevinVassell,23,5,3,35,8-11,1-6,52.9%,4-5,80.0%,1,4,2,2,0,2,4,22,SanAntonioSpurs
+KeldonJohnson,17,9,7,32,6-12,1-3,46.7%,2-3,66.7%,2,7,3,0,0,4,0,21,SanAntonioSpurs
+TreJones,16,5,6,25,3-4,2-3,71.4%,4-4,100.0%,1,4,1,0,0,0,1,24,SanAntonioSpurs
+VictorWembanyama,15,5,2,23,3-4,3-5,66.7%,0-1,0.0%,0,5,5,2,1,5,0,16,SanAntonioSpurs
+ZachCollins,14,5,3,32,6-6,0-4,60.0%,2-2,100.0%,1,4,3,1,2,4,-4,18,SanAntonioSpurs
+JeremySochan,13,8,5,29,2-8,2-4,33.3%,3-6,50.0%,3,5,3,1,0,4,-10,13,SanAntonioSpurs
+CediOsman,12,0,2,22,3-4,2-6,50.0%,0-0,-,0,0,0,0,1,2,-11,10,SanAntonioSpurs
+MalakiBranham,7,2,2,18,3-4,0-3,42.9%,1-1,100.0%,0,2,1,1,0,1,-2,7,SanAntonioSpurs
+CharlesBassey,2,5,2,13,1-1,0-0,100.0%,0-0,-,1,4,1,1,0,0,-6,9,SanAntonioSpurs
+DougMcDermott,0,1,1,11,0-0,0-1,0.0%,0-0,-,0,1,0,0,1,1,-7,2,SanAntonioSpurs
+SanAntonioSpurs,119,45,33,240,35-54,11-35,51.7%,16-22,72.7%  ,9,36,19,8,5,23,-35,142,SanAntonioSpurs
+LukaDoncic,33,13,10,34,10-14,3-11,52.0%,4-7,57.1%,1,12,4,2,0,1,4,39,DallasMavericks
+KyrieIrving,22,2,6,36,9-16,1-8,41.7%,1-1,100.0%,0,2,2,1,0,3,1,15,DallasMavericks
+TimHardawayJr.,17,6,4,28,2-4,3-10,35.7%,4-4,100.0%,2,4,1,1,0,0,9,18,DallasMavericks
+GrantWilliams,17,6,0,35,2-3,4-8,54.5%,1-1,100.0%,1,5,3,0,1,4,2,16,DallasMavericks
+DereckLively,16,10,1,31,7-8,0-0,87.5%,2-3,66.7%,5,5,1,1,1,4,20,26,DallasMavericks
+JoshGreen,11,2,1,30,1-3,2-2,60.0%,3-4,75.0%,2,0,0,1,0,4,4,12,DallasMavericks
+MaximilianKleber,6,7,2,23,0-2,2-5,28.6%,0-0,-,2,5,0,0,1,3,-12,11,DallasMavericks
+DanteExum,3,1,0,8,1-1,0-1,50.0%,1-1,100.0%,0,1,0,0,0,1,4,3,DallasMavericks
+DerrickJones,1,1,0,12,0-1,0-2,0.0%,1-2,50.0%,0,1,1,0,0,0,-1,-3,DallasMavericks
+SethCurry,0,0,0,4,0-0,0-0,-,0-0,-,0,0,0,0,0,0,4,0,DallasMavericks
+DallasMavericks,126,48,24,240,32-52,15-47,47.5%,17-23,73.9%  ,13,35,12,6,3,20,35,137,DallasMavericks

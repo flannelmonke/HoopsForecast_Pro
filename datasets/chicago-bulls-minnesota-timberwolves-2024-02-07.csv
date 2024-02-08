@@ -1,0 +1,21 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+CobyWhite,33,5,7,42,4-8,7-13,52.4%,4-5,80.0%,0,5,3,1,0,4,7,32,ChicagoBulls
+DeMarDerozan,33,3,5,43,8-18,0-1,42.1%,17-18,94.4%,2,1,1,4,0,2,12,32,ChicagoBulls
+NikolaVucevic,24,6,2,43,8-12,2-4,62.5%,2-2,100.0%,1,5,0,0,4,5,5,30,ChicagoBulls
+AndreDrummond,16,16,0,35,7-13,0-0,53.8%,2-4,50.0%,6,10,1,0,4,4,4,27,ChicagoBulls
+TorreyCraig,7,6,1,22,1-1,1-4,40.0%,2-2,100.0%,2,4,2,1,2,1,-2,12,ChicagoBulls
+AyoDosunmu,6,1,3,29,3-5,0-1,50.0%,0-1,0.0%,0,1,2,1,2,3,-9,7,ChicagoBulls
+JevonCarter,5,0,0,7,1-1,1-3,50.0%,0-0,-,0,0,1,0,0,1,-2,2,ChicagoBulls
+AlexCaruso,3,9,6,35,0-2,1-3,20.0%,0-0,-,1,8,4,2,4,1,19,16,ChicagoBulls
+JulianPhillips,2,2,0,9,1-3,0-1,25.0%,0-0,-,1,1,0,0,0,1,-4,1,ChicagoBulls
+ChicagoBulls,129,48,24,265,33-63,12-30,48.4%,27-32,84.4%  ,13,35,14,9,16,22,30,159,ChicagoBulls
+AnthonyEdwards,38,12,5,44,7-17,5-9,46.2%,9-11,81.8%,0,12,5,2,1,5,-4,37,MinnesotaTimberwolves
+Karl-AnthonyTowns,33,5,3,39,4-6,7-16,50.0%,4-5,80.0%,1,4,2,1,2,4,1,30,MinnesotaTimberwolves
+JadenMcDaniels,13,1,3,40,5-8,1-3,54.5%,0-0,-,1,0,4,1,0,4,1,9,MinnesotaTimberwolves
+RudyGobert,12,16,1,44,3-6,0-0,50.0%,6-10,60.0%,7,9,1,1,1,5,-8,23,MinnesotaTimberwolves
+NazReid,10,4,2,20,2-5,2-6,36.4%,0-0,-,0,4,0,0,1,1,3,10,MinnesotaTimberwolves
+MikeConley,9,0,8,36,0-0,3-7,42.9%,0-0,-,0,0,0,0,0,2,-9,13,MinnesotaTimberwolves
+NickeilAlexander-Walker,3,1,2,19,0-1,1-3,25.0%,0-0,-,0,1,0,1,0,2,-8,4,MinnesotaTimberwolves
+JordanMcLaughlin,3,1,1,7,0-2,1-1,33.3%,0-0,-,0,1,0,0,0,1,-2,3,MinnesotaTimberwolves
+KyleAnderson,2,2,3,16,1-2,0-0,50.0%,0-0,-,1,1,1,0,0,1,-4,5,MinnesotaTimberwolves
+MinnesotaTimberwolves,123,42,28,265,22-47,20-45,45.7%,19-26,73.1%  ,10,32,13,6,5,25,-30,134,MinnesotaTimberwolves

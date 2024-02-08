@@ -1,0 +1,25 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+LauriMarkkanen,33,11,2,36,7-11,5-7,66.7%,4-4,100.0%,3,8,2,1,0,3,15,39,UtahJazz
+JohnCollins,22,9,0,29,8-11,1-4,60.0%,3-3,100.0%,3,6,1,0,1,3,-2,25,UtahJazz
+KeyonteGeorge,16,2,5,27,2-5,4-6,54.5%,0-0,-,1,1,1,1,1,0,6,19,UtahJazz
+CollinSexton,14,0,4,26,3-7,1-3,40.0%,5-5,100.0%,0,0,2,0,0,2,5,10,UtahJazz
+JordanClarkson,12,2,2,27,4-6,1-6,41.7%,1-2,50.0%,0,2,5,2,0,2,-3,5,UtahJazz
+KellyOlynyk,10,4,7,16,4-6,0-0,66.7%,2-2,100.0%,2,2,0,0,0,2,-2,19,UtahJazz
+KrisDunn,8,3,5,27,1-3,2-5,37.5%,0-0,-,1,2,1,4,3,1,18,17,UtahJazz
+WalkerKessler,4,9,1,21,2-2,0-0,100.0%,0-0,-,1,8,1,0,3,3,2,16,UtahJazz
+LukaSamanic,3,2,0,6,0-1,0-2,0.0%,3-4,75.0%,1,1,2,0,0,1,-4,-1,UtahJazz
+SimoneFontecchio,2,6,3,25,1-2,0-2,25.0%,0-0,-,3,3,2,1,0,0,0,7,UtahJazz
+UtahJazz,124,48,29,240,32-54,14-35,51.7%,18-20,90.0%  ,15,33,17,9,8,17,35,156,UtahJazz
+ShaiGilgeous-Alexander,28,4,7,36,9-19,2-3,50.0%,4-5,80.0%,1,3,2,1,1,1,-3,27,OklahomaCityThunder
+JalenWilliams,26,5,5,35,7-12,3-6,55.6%,3-4,75.0%,1,4,2,1,0,0,-4,26,OklahomaCityThunder
+ChetHolmgren,22,8,3,31,4-7,4-6,61.5%,2-4,50.0%,3,5,1,3,4,3,-5,32,OklahomaCityThunder
+LuguentzDort,10,1,1,30,1-3,2-5,37.5%,2-3,66.7%,0,1,0,1,1,5,-12,8,OklahomaCityThunder
+AaronWiggins,9,4,1,17,1-2,2-3,60.0%,1-2,50.0%,2,2,0,0,0,0,-11,11,OklahomaCityThunder
+OusmaneDieng,8,2,1,11,1-1,2-2,100.0%,0-0,-,0,2,0,1,1,0,9,13,OklahomaCityThunder
+JoshGiddey,8,3,2,26,1-4,2-4,37.5%,0-0,-,0,3,1,0,1,3,-5,8,OklahomaCityThunder
+JaylinWilliams,3,3,3,13,0-3,1-3,16.7%,0-0,-,1,2,1,1,1,1,-4,5,OklahomaCityThunder
+CasonWallace,3,0,0,16,0-0,1-2,50.0%,0-0,-,0,0,0,0,0,1,-1,2,OklahomaCityThunder
+LindyWaters,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,2,0,OklahomaCityThunder
+KenrichWilliams,0,1,2,13,0-2,0-2,0.0%,0-0,-,1,0,1,1,0,2,1,-1,OklahomaCityThunder
+VasilijeMicic,0,1,1,11,0-0,0-1,0.0%,0-0,-,0,1,3,0,0,0,-2,-2,OklahomaCityThunder
+OklahomaCityThunder,117,32,26,240,24-53,19-37,47.8%,12-18,66.7%  ,9,23,11,9,9,16,-35,129,OklahomaCityThunder

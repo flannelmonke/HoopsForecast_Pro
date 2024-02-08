@@ -1,0 +1,26 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+TylerHerro,24,6,7,29,6-8,4-7,66.7%,0-0,-,1,5,1,0,0,1,16,31,MiamiHeat
+BamAdebayo,20,5,2,29,10-14,0-0,71.4%,0-2,0.0%,0,5,1,1,0,4,17,21,MiamiHeat
+JimmyButler,17,11,11,34,4-9,1-3,41.7%,6-6,100.0%,1,10,0,3,1,0,16,36,MiamiHeat
+TerryRozier,13,2,5,28,3-8,2-7,33.3%,1-1,100.0%,1,1,1,0,0,3,16,9,MiamiHeat
+JaimeJaquez,10,3,0,28,4-4,0-2,66.7%,2-5,40.0%,0,3,2,0,0,1,-1,6,MiamiHeat
+CalebMartin,9,5,2,25,3-3,1-3,66.7%,0-0,-,2,3,1,2,0,2,13,15,MiamiHeat
+JoshRichardson,9,4,0,26,1-2,1-4,33.3%,4-4,100.0%,0,4,0,0,0,2,-3,9,MiamiHeat
+KevinLove,6,6,0,17,0-1,2-6,28.6%,0-0,-,0,6,1,1,1,3,0,8,MiamiHeat
+DuncanRobinson,6,2,2,19,0-0,1-6,16.7%,3-3,100.0%,0,2,2,1,0,2,-4,4,MiamiHeat
+OrlandoRobinson,2,1,0,2,0-0,0-0,-,2-2,100.0%,0,1,0,0,0,2,-5,3,MiamiHeat
+NikolaJovic,0,0,0,2,0-0,0-0,-,0-0,-,0,0,1,0,0,0,-5,-1,MiamiHeat
+MiamiHeat,116,48,29,240,31-49,12-38,49.4%,18-23,78.3%  ,6,42,10,8,2,20,60,141,MiamiHeat
+TreJones,19,2,6,31,5-7,2-4,63.6%,3-5,60.0%,0,2,3,0,0,0,-15,18,SanAntonioSpurs
+DevinVassell,19,3,3,32,7-12,1-6,44.4%,2-2,100.0%,0,3,2,1,0,1,-11,14,SanAntonioSpurs
+VictorWembanyama,18,13,3,28,4-8,3-5,53.8%,1-3,33.3%,0,13,3,1,1,1,-12,25,SanAntonioSpurs
+ZachCollins,8,4,3,17,3-5,0-1,50.0%,2-2,100.0%,0,4,1,0,0,5,-4,11,SanAntonioSpurs
+CediOsman,8,5,0,22,1-3,2-4,42.9%,0-0,-,0,5,0,0,0,1,-2,9,SanAntonioSpurs
+KeldonJohnson,7,6,0,25,3-6,0-4,30.0%,1-1,100.0%,3,3,0,0,1,3,-15,7,SanAntonioSpurs
+JulianChampagnie,6,5,3,19,0-2,2-5,28.6%,0-0,-,3,2,0,2,0,2,7,11,SanAntonioSpurs
+JeremySochan,6,5,3,29,3-5,0-2,42.9%,0-0,-,0,5,2,1,0,2,-11,9,SanAntonioSpurs
+BlakeWesley,5,1,6,16,2-2,0-0,100.0%,1-4,25.0%,0,1,1,1,0,3,-4,9,SanAntonioSpurs
+DougMcDermott,3,1,0,10,0-0,1-3,33.3%,0-0,-,0,1,0,0,0,1,-1,2,SanAntonioSpurs
+MalakiBranham,3,1,1,8,0-2,1-2,25.0%,0-0,-,0,1,2,0,0,2,4,0,SanAntonioSpurs
+SandroMamukelashvili,2,0,2,3,1-1,0-1,50.0%,0-0,-,0,0,0,0,0,0,4,3,SanAntonioSpurs
+SanAntonioSpurs,104,50,30,240,29-53,12-37,45.6%,10-17,58.8%  ,10,40,15,6,2,21,-60,118,SanAntonioSpurs
