@@ -1,0 +1,26 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+AnthonyDavis,26,12,6,35,9-12,0-1,69.2%,8-11,72.7%,4,8,1,3,2,1,-12,41,LosAngelesLakers
+LeBronJames,24,11,5,34,7-17,2-5,40.9%,4-5,80.0%,5,6,4,0,0,1,-13,22,LosAngelesLakers
+D&#039;AngeloRussell,20,1,7,35,4-9,3-5,50.0%,3-3,100.0%,0,1,2,1,0,4,-16,20,LosAngelesLakers
+JarredVanderbilt,12,5,0,19,3-3,2-2,100.0%,0-0,-,0,5,0,0,0,0,-10,17,LosAngelesLakers
+TaureanPrince,10,3,2,29,1-3,2-4,42.9%,2-2,100.0%,0,3,3,1,0,1,-12,9,LosAngelesLakers
+AustinReaves,9,3,5,33,4-6,0-6,33.3%,1-1,100.0%,0,3,0,1,0,2,-13,10,LosAngelesLakers
+MaxChristie,6,2,1,19,0-0,2-3,66.7%,0-0,-,0,2,1,0,0,1,-6,7,LosAngelesLakers
+ChristianWood,5,4,3,11,0-3,1-3,16.7%,2-2,100.0%,0,4,1,1,1,0,-7,8,LosAngelesLakers
+JalenHood,0,1,1,3,0-1,0-0,0.0%,0-0,-,0,1,1,0,0,1,0,0,LosAngelesLakers
+MaxwellLewis,0,0,0,3,0-0,0-0,-,0-0,-,0,0,0,0,0,0,0,0,LosAngelesLakers
+JaxsonHayes,0,0,0,3,0-0,0-1,0.0%,0-0,-,0,0,0,0,0,0,0,-1,LosAngelesLakers
+RuiHachimura,0,2,1,15,0-3,0-3,0.0%,0-0,-,1,1,1,0,0,0,-1,-4,LosAngelesLakers
+LosAngelesLakers,112,44,31,240,28-57,12-33,44.4%,20-24,83.3%  ,10,34,14,7,3,11,-90,129,LosAngelesLakers
+CamThomas,33,3,4,32,9-11,4-7,72.2%,3-4,75.0%,0,3,1,1,0,2,12,34,BrooklynNets
+NicClaxton,22,14,1,33,11-16,0-0,68.8%,0-0,-,2,12,0,1,2,3,8,35,BrooklynNets
+SpencerDinwiddie,19,3,4,33,1-3,4-8,45.5%,5-5,100.0%,0,3,1,1,0,1,10,20,BrooklynNets
+MikalBridges,17,1,5,35,2-3,4-8,54.5%,1-2,50.0%,0,1,2,2,0,1,14,17,BrooklynNets
+LonnieWalker,15,1,3,13,3-3,3-4,85.7%,0-0,-,0,1,1,0,0,2,4,17,BrooklynNets
+DennisSmith,11,2,5,17,2-3,2-4,57.1%,1-1,100.0%,1,1,2,2,0,2,2,15,BrooklynNets
+CameronJohnson,10,4,5,23,2-5,2-4,44.4%,0-0,-,3,1,0,1,0,1,16,15,BrooklynNets
+DorianFinney-Smith,3,4,1,28,1-3,0-5,12.5%,1-2,50.0%,1,3,0,1,2,4,19,3,BrooklynNets
+RoyceO&#039;Neale,0,7,3,17,0-0,0-5,0.0%,0-0,-,0,7,0,1,0,1,4,6,BrooklynNets
+TrendonWatford,0,1,0,4,0-1,0-1,0.0%,0-0,-,1,0,0,0,0,0,2,-1,BrooklynNets
+HarryGiles,0,1,0,5,0-0,0-1,0.0%,0-0,-,0,1,1,0,0,0,-1,-1,BrooklynNets
+BrooklynNets,130,41,31,240,31-48,19-47,52.6%,11-14,78.6%  ,8,33,8,10,4,17,90,160,BrooklynNets

@@ -1,0 +1,22 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+CollinSexton,25,4,5,30,9-11,0-2,69.2%,7-7,100.0%,1,3,3,0,0,2,4,27,UtahJazz
+KeyonteGeorge,21,6,6,36,6-9,1-8,41.2%,6-10,60.0%,2,4,4,0,0,2,1,15,UtahJazz
+JohnCollins,17,9,3,35,5-10,1-4,42.9%,4-4,100.0%,2,7,2,1,3,2,4,23,UtahJazz
+TalenHorton-Tucker,14,2,4,21,2-3,3-5,62.5%,1-2,50.0%,0,2,1,3,0,3,5,18,UtahJazz
+WalkerKessler,12,8,0,25,6-6,0-0,100.0%,0-0,-,4,4,2,0,2,1,-5,20,UtahJazz
+OmerYurtseven,9,15,4,27,4-7,0-1,50.0%,1-1,100.0%,4,11,1,1,1,3,10,25,UtahJazz
+SimoneFontecchio,7,5,5,35,2-4,1-8,25.0%,0-0,-,1,4,2,0,2,2,-4,8,UtahJazz
+OchaiAgbaji,6,2,0,26,3-4,0-0,75.0%,0-0,-,0,2,2,0,0,2,8,5,UtahJazz
+TaylorHendricks,5,2,0,18,1-3,1-4,28.6%,0-0,-,1,1,0,0,2,1,1,4,UtahJazz
+LukaSamanic,2,3,0,12,1-3,0-2,20.0%,0-0,-,1,2,0,0,1,3,1,2,UtahJazz
+UtahJazz,118,59,27,265,39-60,7-34,48.9%,19-24,79.2%  ,17,42,17,5,11,21,25,147,UtahJazz
+ShaedonSharpe,25,5,4,44,6-12,3-8,45.0%,4-4,100.0%,2,3,0,2,0,5,-5,25,PortlandTrailBlazers
+MalcolmBrogdon,25,3,6,38,3-8,5-9,47.1%,4-6,66.7%,1,2,3,2,1,0,-2,23,PortlandTrailBlazers
+ScootHenderson,17,5,3,21,4-10,2-5,40.0%,3-4,75.0%,2,3,2,1,0,5,-5,14,PortlandTrailBlazers
+DeandreAyton,10,11,0,35,4-8,0-0,50.0%,2-2,100.0%,1,10,0,0,0,3,-8,17,PortlandTrailBlazers
+DuopReath,9,1,1,14,2-4,1-4,37.5%,2-2,100.0%,1,0,0,0,0,0,8,6,PortlandTrailBlazers
+JeramiGrant,9,3,0,26,1-4,0-5,11.1%,7-7,100.0%,0,3,3,0,1,2,-12,2,PortlandTrailBlazers
+ToumaniCamara,8,3,0,30,4-5,0-3,50.0%,0-0,-,2,1,0,4,1,4,-5,12,PortlandTrailBlazers
+MatisseThybulle,6,3,2,33,0-1,2-4,40.0%,0-0,-,0,3,0,1,2,1,9,11,PortlandTrailBlazers
+JabariWalker,4,6,1,24,1-3,0-2,20.0%,2-2,100.0%,2,4,1,1,0,0,-5,7,PortlandTrailBlazers
+PortlandTrailBlazers,113,43,17,265,25-55,13-40,40.0%,24-27,88.9%  ,13,30,9,11,5,20,-25,117,PortlandTrailBlazers

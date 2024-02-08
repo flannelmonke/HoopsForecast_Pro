@@ -1,0 +1,21 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+LaMeloBall,34,5,9,36,4-9,8-13,54.5%,2-2,100.0%,0,5,3,1,0,3,-16,36,CharlotteHornets
+BrandonMiller,29,3,2,34,5-8,5-7,66.7%,4-4,100.0%,0,3,2,0,0,3,-7,27,CharlotteHornets
+MilesBridges,19,4,3,32,7-11,1-1,66.7%,2-3,66.7%,0,4,1,1,1,2,2,22,CharlotteHornets
+MarkWilliams,7,8,4,30,3-5,0-0,60.0%,1-2,50.0%,2,6,1,0,1,3,-1,16,CharlotteHornets
+IshmaelSmith,7,3,4,17,2-4,1-2,50.0%,0-0,-,0,3,0,0,0,1,0,11,CharlotteHornets
+J.T.Thor,5,2,0,11,1-1,1-2,66.7%,0-0,-,1,1,0,0,1,1,-9,7,CharlotteHornets
+GordonHayward,4,3,4,32,1-5,0-2,14.3%,2-2,100.0%,0,3,0,2,0,3,-18,7,CharlotteHornets
+P.J.Washington,3,6,2,33,0-3,1-7,10.0%,0-0,-,0,6,6,1,2,4,-25,-1,CharlotteHornets
+BryceMcGowens,0,2,1,16,0-1,0-1,0.0%,0-0,-,1,1,0,0,0,2,4,1,CharlotteHornets
+CharlotteHornets,108,37,29,240,23-47,17-35,48.8%,11-13,84.6%  ,4,33,18,5,5,22,-70,126,CharlotteHornets
+JalenBrunson,32,3,8,39,8-13,4-8,57.1%,4-4,100.0%,0,3,2,0,0,2,15,32,NewYorkKnicks
+DonteDiVincenzo,25,3,3,28,2-2,7-10,75.0%,0-0,-,0,3,0,3,1,1,11,32,NewYorkKnicks
+JuliusRandle,21,6,7,38,6-12,2-5,47.1%,3-7,42.9%,0,6,4,0,0,4,9,17,NewYorkKnicks
+R.J.Barrett,15,3,3,26,4-10,1-5,33.3%,4-5,80.0%,0,3,1,1,0,0,16,10,NewYorkKnicks
+ImmanuelQuickley,9,5,1,23,4-6,0-5,36.4%,1-1,100.0%,0,5,1,0,0,3,-1,7,NewYorkKnicks
+JoshHart,7,6,4,29,2-3,1-2,60.0%,0-0,-,0,6,0,3,0,0,7,18,NewYorkKnicks
+MilesMcBride,5,0,0,9,1-1,1-2,66.7%,0-0,-,0,0,0,0,0,2,-1,4,NewYorkKnicks
+MitchellRobinson,4,14,1,33,2-5,0-0,40.0%,0-0,-,11,3,3,0,4,0,9,17,NewYorkKnicks
+IsaiahHartenstein,4,7,0,15,1-2,0-0,50.0%,2-2,100.0%,2,5,1,0,0,1,5,9,NewYorkKnicks
+NewYorkKnicks,122,49,27,240,30-54,16-37,50.5%,14-19,73.7%  ,14,35,13,7,5,13,70,146,NewYorkKnicks

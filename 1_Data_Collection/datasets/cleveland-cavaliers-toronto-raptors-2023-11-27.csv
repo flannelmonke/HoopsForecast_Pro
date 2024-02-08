@@ -1,0 +1,22 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+DariusGarland,24,2,8,41,7-10,3-6,62.5%,1-1,100.0%,0,2,5,0,0,2,12,23,ClevelandCavaliers
+MaxStrus,20,11,5,37,4-7,4-9,50.0%,0-0,-,1,10,2,0,1,4,-4,27,ClevelandCavaliers
+JarrettAllen,18,4,3,27,9-10,0-0,90.0%,0-0,-,3,1,2,0,2,4,-13,24,ClevelandCavaliers
+EvanMobley,12,14,1,38,5-13,0-1,35.7%,2-2,100.0%,3,11,3,0,2,3,-4,17,ClevelandCavaliers
+DonovanMitchell,10,5,4,34,4-12,0-5,23.5%,2-3,66.7%,1,4,0,1,0,0,1,6,ClevelandCavaliers
+GeorgesNiang,8,6,3,23,1-4,2-5,33.3%,0-0,-,0,6,0,1,0,4,13,12,ClevelandCavaliers
+CarisLeVert,7,3,1,22,2-6,1-4,30.0%,0-0,-,0,3,0,0,0,1,6,4,ClevelandCavaliers
+TristanThompson,4,4,4,7,2-2,0-0,100.0%,0-0,-,4,0,1,0,0,0,7,11,ClevelandCavaliers
+IsaacOkoro,2,0,0,10,1-2,0-1,33.3%,0-0,-,0,0,1,0,0,0,-3,-1,ClevelandCavaliers
+ClevelandCavaliers,105,51,29,240,35-66,10-31,46.4%,5-6,83.3%  ,14,37,15,2,5,18,15,123,ClevelandCavaliers
+JakobPoeltl,18,13,2,35,8-9,0-0,88.9%,2-2,100.0%,4,9,1,2,0,3,9,33,TorontoRaptors
+PascalSiakam,18,8,6,38,7-13,0-4,41.2%,4-6,66.7%,4,4,4,1,1,0,6,18,TorontoRaptors
+ScottieBarnes,15,8,3,33,4-10,1-4,35.7%,4-5,80.0%,1,7,2,1,1,1,-20,16,TorontoRaptors
+DennisSchroder,15,2,4,29,3-6,2-5,45.5%,3-3,100.0%,0,2,1,2,0,5,10,16,TorontoRaptors
+GaryTrentJr.,13,1,0,26,4-6,1-7,38.5%,2-2,100.0%,0,1,1,1,0,0,10,6,TorontoRaptors
+OguguaAnunoby,11,7,1,34,2-7,2-5,33.3%,1-3,33.3%,5,2,1,0,1,1,11,9,TorontoRaptors
+ChrisBoucher,5,4,0,10,1-2,0-0,50.0%,3-4,75.0%,2,2,1,1,0,0,-9,7,TorontoRaptors
+PreciousAchiuwa,4,2,1,13,0-2,1-2,25.0%,1-4,25.0%,0,2,0,1,0,0,-15,2,TorontoRaptors
+MalachiFlynn,3,4,0,17,0-2,1-4,16.7%,0-0,-,0,4,1,0,0,1,-13,1,TorontoRaptors
+OttoPorter,0,1,0,5,0-0,0-1,0.0%,0-0,-,1,0,0,0,0,0,-4,0,TorontoRaptors
+TorontoRaptors,102,53,17,240,29-57,8-32,41.6%,20-29,69.0%  ,20,33,14,9,3,11,-15,108,TorontoRaptors

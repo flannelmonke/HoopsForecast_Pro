@@ -1,0 +1,28 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+SimoneFontecchio,24,6,2,29,7-8,3-8,62.5%,1-1,100.0%,0,6,1,2,1,0,27,28,UtahJazz
+JordanClarkson,20,10,11,28,7-10,1-6,50.0%,3-3,100.0%,2,8,4,1,0,4,36,30,UtahJazz
+LauriMarkkanen,17,4,1,25,2-4,4-8,50.0%,1-1,100.0%,2,2,1,1,1,0,8,17,UtahJazz
+JohnCollins,15,5,1,18,7-8,0-5,53.8%,1-1,100.0%,0,5,0,1,0,1,-1,16,UtahJazz
+KeyonteGeorge,14,3,3,29,1-2,2-6,37.5%,6-6,100.0%,0,3,0,0,0,1,38,15,UtahJazz
+WalkerKessler,11,10,0,27,5-5,0-1,83.3%,1-2,50.0%,0,10,1,1,4,2,37,23,UtahJazz
+CollinSexton,8,3,6,19,2-5,0-3,25.0%,4-4,100.0%,1,2,1,0,0,1,1,10,UtahJazz
+KellyOlynyk,7,5,6,19,2-2,1-1,100.0%,0-0,-,0,5,1,3,0,3,28,20,UtahJazz
+KrisDunn,7,3,7,21,2-3,1-1,75.0%,0-0,-,0,3,2,0,0,2,-1,14,UtahJazz
+LukaSamanic,2,1,0,4,1-4,0-0,25.0%,0-0,-,1,0,0,0,0,0,1,0,UtahJazz
+OchaiAgbaji,2,2,0,19,1-1,0-5,16.7%,0-0,-,1,1,1,0,0,1,10,-2,UtahJazz
+OmerYurtseven,0,1,0,4,0-0,0-0,-,0-0,-,0,1,0,0,0,0,1,1,UtahJazz
+UtahJazz,127,53,37,240,37-52,12-44,51.0%,17-18,94.4%  ,7,46,12,9,6,15,185,172,UtahJazz
+LukaDoncic,19,6,14,34,3-7,3-13,30.0%,4-6,66.7%,0,6,4,1,0,1,-17,20,DallasMavericks
+JadenHardy,17,3,1,21,1-6,5-9,40.0%,0-0,-,0,3,2,0,0,0,-22,10,DallasMavericks
+KyrieIrving,14,9,4,32,4-11,2-3,42.9%,0-1,0.0%,1,8,1,0,1,3,-15,18,DallasMavericks
+DereckLively,10,6,2,25,5-8,0-0,62.5%,0-0,-,2,4,0,1,1,1,-3,17,DallasMavericks
+DerrickJones,6,3,0,24,1-1,1-3,50.0%,1-2,50.0%,1,2,2,1,1,1,-18,6,DallasMavericks
+TimHardawayJr.,6,2,0,23,3-3,0-6,33.3%,0-0,-,0,2,1,0,0,1,-16,1,DallasMavericks
+DwightPowell,4,4,1,10,2-3,0-0,66.7%,0-0,-,2,2,0,2,0,1,-13,10,DallasMavericks
+DanteExum,4,1,3,12,2-3,0-0,66.7%,0-0,-,1,0,0,0,0,0,-4,7,DallasMavericks
+BrandonWilliams,4,1,1,7,2-3,0-0,66.7%,0-0,-,1,0,1,0,0,1,-13,4,DallasMavericks
+GrantWilliams,4,0,1,18,2-3,0-4,28.6%,0-1,0.0%,0,0,3,1,2,2,-17,-1,DallasMavericks
+RichaunHolmes,2,1,0,7,1-1,0-0,100.0%,0-0,-,0,1,0,0,0,0,-13,3,DallasMavericks
+Olivier-MaxenceProsper,0,3,0,7,0-1,0-1,0.0%,0-0,-,0,3,0,0,0,0,-13,1,DallasMavericks
+JoshGreen,0,2,1,21,0-3,0-1,0.0%,0-0,-,0,2,2,0,0,4,-21,-3,DallasMavericks
+DallasMavericks,90,41,28,240,26-53,11-40,39.8%,5-10,50.0%  ,8,33,16,6,5,15,-185,93,DallasMavericks

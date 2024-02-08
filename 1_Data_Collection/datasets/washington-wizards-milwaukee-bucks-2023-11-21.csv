@@ -1,0 +1,29 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+JordanPoole,30,1,1,33,8-17,3-9,42.3%,5-5,100.0%,0,1,0,0,0,4,-26,17,WashingtonWizards
+KyleKuzma,22,3,13,31,8-10,2-5,66.7%,0-0,-,0,3,2,2,1,2,3,34,WashingtonWizards
+TyusJones,18,2,3,26,9-12,0-1,69.2%,0-0,-,0,2,0,0,0,0,9,19,WashingtonWizards
+DanielGafford,14,5,2,29,7-13,0-0,53.8%,0-0,-,1,4,0,0,2,3,-1,17,WashingtonWizards
+BilalCoulibaly,12,3,1,25,3-5,2-2,71.4%,0-0,-,1,2,1,2,0,3,4,15,WashingtonWizards
+CoreyKispert,12,2,1,21,4-5,1-4,55.6%,1-2,50.0%,1,1,0,1,0,1,-7,11,WashingtonWizards
+LandryShamet,8,3,2,14,1-1,2-3,75.0%,0-0,-,0,3,1,0,0,2,-3,11,WashingtonWizards
+DeniAvdija,7,4,2,31,3-4,0-1,60.0%,1-2,50.0%,1,3,0,0,1,3,-28,11,WashingtonWizards
+DaniloGallinari,4,2,3,18,2-3,0-3,33.3%,0-0,-,1,1,0,0,0,1,-14,5,WashingtonWizards
+EugeneOmoruyi,2,0,0,1,0-0,0-1,0.0%,2-2,100.0%,0,0,0,0,0,0,2,1,WashingtonWizards
+JonathanDavis,0,1,1,6,0-0,0-0,-,0-0,-,0,1,0,0,0,0,-10,2,WashingtonWizards
+AnthonyGill,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,1,0,0,2,1,WashingtonWizards
+JaredButler,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,2,0,WashingtonWizards
+RyanRollins,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,2,0,WashingtonWizards
+WashingtonWizards,129,26,29,240,45-70,10-29,55.6%,9-11,81.8%  ,5,21,4,6,4,19,-65,144,WashingtonWizards
+GiannisAntetokounmpo,42,13,8,34,20-23,0-0,87.0%,2-6,33.3%,6,7,5,1,1,2,10,53,MilwaukeeBucks
+DamianLillard,22,5,7,33,2-8,3-6,35.7%,9-11,81.8%,1,4,1,0,0,1,6,22,MilwaukeeBucks
+KhrisMiddleton,18,6,7,23,6-10,0-2,50.0%,6-7,85.7%,1,5,4,0,0,3,23,20,MilwaukeeBucks
+BobbyPortis,17,8,1,23,7-10,1-3,61.5%,0-0,-,1,7,1,1,0,2,13,21,MilwaukeeBucks
+BrookLopez,16,9,1,32,6-8,1-4,58.3%,1-1,100.0%,4,5,1,0,5,0,13,25,MilwaukeeBucks
+MalikBeasley,16,5,2,33,2-4,3-5,55.6%,3-3,100.0%,1,4,0,0,0,0,20,19,MilwaukeeBucks
+CameronPayne,6,2,2,16,0-1,2-4,40.0%,0-0,-,0,2,1,1,0,1,8,7,MilwaukeeBucks
+PatConnaughton,3,4,4,26,0-0,1-2,50.0%,0-0,-,1,3,0,0,0,1,-4,10,MilwaukeeBucks
+A.J.Green,2,2,1,15,1-1,0-3,25.0%,0-0,-,0,2,0,0,0,1,-9,2,MilwaukeeBucks
+AndreJacksonJr.,0,1,0,1,0-0,0-0,-,0-0,-,1,0,0,0,0,0,-5,1,MilwaukeeBucks
+ThanasisAntetokounmpo,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-5,0,MilwaukeeBucks
+RobinLopez,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,2,-5,0,MilwaukeeBucks
+MilwaukeeBucks,142,55,33,240,44-65,11-29,58.5%,21-28,75.0%  ,16,39,13,3,6,13,65,180,MilwaukeeBucks

@@ -1,0 +1,30 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+NikolaJokic,28,16,9,33,8-13,1-3,56.3%,9-9,100.0%,4,12,1,3,0,3,33,48,DenverNuggets
+MichaelPorter,27,6,2,31,4-6,5-10,56.3%,4-5,80.0%,1,5,2,1,2,4,30,28,DenverNuggets
+ReggieJackson,16,1,3,25,3-5,3-5,60.0%,1-2,50.0%,0,1,1,0,1,0,14,15,DenverNuggets
+AaronGordon,15,12,5,35,3-6,1-3,44.4%,6-8,75.0%,3,9,3,2,1,2,26,25,DenverNuggets
+ChristianBraun,10,5,4,18,3-5,1-3,50.0%,1-2,50.0%,1,4,0,1,0,1,-3,15,DenverNuggets
+KentaviousCaldwell-Pope,10,0,2,30,2-4,2-4,50.0%,0-0,-,0,0,1,1,0,1,29,8,DenverNuggets
+CollinGillespie,5,1,2,12,1-1,1-3,50.0%,0-0,-,0,1,0,0,0,1,12,6,DenverNuggets
+JulianStrawther,3,1,1,9,0-0,1-2,50.0%,0-0,-,0,1,0,0,0,0,-8,4,DenverNuggets
+JalenPickett,3,0,0,2,0-0,1-1,100.0%,0-0,-,0,0,0,0,0,0,-1,3,DenverNuggets
+PeytonWatson,2,2,2,18,1-2,0-1,33.3%,0-0,-,0,2,2,2,0,2,-8,4,DenverNuggets
+JamalMurray,2,2,0,10,1-3,0-0,33.3%,0-0,-,0,2,0,0,0,0,-2,2,DenverNuggets
+DeAndreJordan,1,1,1,12,0-0,0-0,-,1-2,50.0%,1,0,1,0,0,2,-10,1,DenverNuggets
+ZekeNnaji,1,1,0,2,0-0,0-0,-,1-2,50.0%,0,1,0,0,0,1,-1,1,DenverNuggets
+HunterTyson,0,1,0,2,0-0,0-1,0.0%,0-0,-,0,1,0,0,0,1,-1,0,DenverNuggets
+DenverNuggets,123,54,31,240,26-45,16-36,51.9%,23-30,76.7%  ,10,44,11,10,4,18,110,160,DenverNuggets
+NikolaVucevic,19,7,3,30,7-15,1-2,47.1%,2-2,100.0%,2,5,2,0,0,3,-27,18,ChicagoBulls
+DeMarDerozan,17,3,6,34,7-15,0-1,43.8%,3-4,75.0%,0,3,0,0,0,4,-18,16,ChicagoBulls
+JevonCarter,16,0,1,18,2-4,4-5,66.7%,0-1,0.0%,0,0,1,0,0,2,-2,12,ChicagoBulls
+ZachLaVine,12,4,4,31,3-7,1-5,33.3%,3-4,75.0%,0,4,3,1,0,2,-27,9,ChicagoBulls
+CobyWhite,11,2,5,31,3-6,1-4,40.0%,2-2,100.0%,0,2,2,2,1,2,-11,13,ChicagoBulls
+TorreyCraig,7,6,3,27,3-5,0-1,50.0%,1-1,100.0%,2,4,0,1,0,1,-19,14,ChicagoBulls
+PatrickWilliams,7,3,3,28,2-2,0-5,28.6%,3-4,75.0%,1,2,1,1,2,0,3,9,ChicagoBulls
+AndreDrummond,5,11,0,15,2-3,0-0,66.7%,1-2,50.0%,4,7,0,1,0,1,7,15,ChicagoBulls
+AlexCaruso,3,0,2,14,1-1,0-2,33.3%,1-1,100.0%,0,0,2,1,0,3,-8,2,ChicagoBulls
+TerryTaylor,2,0,0,3,1-1,0-0,100.0%,0-0,-,0,0,0,0,0,0,-2,2,ChicagoBulls
+DalenTerry,2,1,1,3,1-1,0-1,50.0%,0-2,0.0%,0,1,0,0,0,1,-2,1,ChicagoBulls
+OnuralpBitim,0,0,0,3,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-2,0,ChicagoBulls
+JulianPhillips,0,0,0,3,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-2,0,ChicagoBulls
+ChicagoBulls,101,43,28,240,32-60,7-26,45.3%,16-23,69.6%  ,13,30,12,7,3,20,-110,111,ChicagoBulls

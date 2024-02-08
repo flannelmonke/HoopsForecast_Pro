@@ -1,0 +1,22 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+DeMarDerozan,29,1,1,37,9-16,2-3,57.9%,5-5,100.0%,1,0,0,0,4,1,12,27,ChicagoBulls
+NikolaVucevic,21,12,4,33,5-10,3-7,47.1%,2-2,100.0%,2,10,1,2,1,2,6,30,ChicagoBulls
+ZachLaVine,19,3,2,34,5-8,1-6,42.9%,6-6,100.0%,0,3,0,1,0,1,1,17,ChicagoBulls
+CobyWhite,16,0,7,32,3-8,3-6,42.9%,1-2,50.0%,0,0,1,2,0,6,4,15,ChicagoBulls
+AyoDosunmu,13,1,3,27,6-6,0-1,85.7%,1-2,50.0%,0,1,0,3,0,3,19,18,ChicagoBulls
+AndreDrummond,11,13,1,15,5-8,0-0,62.5%,1-2,50.0%,5,8,1,2,0,2,5,22,ChicagoBulls
+PatrickWilliams,4,0,0,19,0-1,0-1,0.0%,4-6,66.7%,0,0,1,1,1,1,-4,1,ChicagoBulls
+TorreyCraig,3,10,2,31,0-2,1-4,16.7%,0-0,-,3,7,0,1,0,3,12,11,ChicagoBulls
+JevonCarter,3,0,2,12,0-2,1-2,25.0%,0-0,-,0,0,2,0,0,2,0,0,ChicagoBulls
+ChicagoBulls,119,40,22,240,33-61,11-30,48.4%,20-25,80.0%  ,11,29,6,12,6,21,55,141,ChicagoBulls
+KevinKnox,18,3,1,24,3-3,4-5,87.5%,0-0,-,0,3,0,1,0,2,-3,22,DetroitPistons
+IsaiahStewart,17,11,2,31,3-8,3-5,46.2%,2-4,50.0%,6,5,3,0,0,3,-10,18,DetroitPistons
+AlecBurks,16,3,4,21,1-1,2-6,42.9%,8-9,88.9%,1,2,0,0,0,2,6,18,DetroitPistons
+MarvinBagley,14,5,1,23,6-11,0-1,50.0%,2-2,100.0%,2,3,3,0,1,1,-8,12,DetroitPistons
+CadeCunningham,10,3,5,38,4-10,0-5,26.7%,2-2,100.0%,0,3,1,0,2,4,-24,8,DetroitPistons
+AusarThompson,9,16,2,32,2-8,0-1,22.2%,5-7,71.4%,6,10,3,0,1,1,-19,16,DetroitPistons
+KillianHayes,7,3,3,25,2-5,1-3,37.5%,0-0,-,0,3,0,0,0,1,-12,8,DetroitPistons
+JamesWiseman,6,2,0,14,3-5,0-1,50.0%,0-0,-,1,1,2,1,2,3,5,6,DetroitPistons
+JadenIvey,6,0,2,11,2-2,0-2,50.0%,2-2,100.0%,0,0,2,1,0,1,9,5,DetroitPistons
+MarcusSasser,5,3,6,20,1-3,1-3,33.3%,0-0,-,0,3,2,1,0,1,1,9,DetroitPistons
+DetroitPistons,108,49,26,240,27-56,11-32,43.2%,21-26,80.8%  ,16,33,16,4,6,19,-55,122,DetroitPistons

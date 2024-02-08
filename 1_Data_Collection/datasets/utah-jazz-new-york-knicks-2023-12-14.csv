@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+CollinSexton,26,4,7,30,7-10,3-8,55.6%,3-3,100.0%,1,3,2,0,0,4,-9,27,UtahJazz
+LauriMarkkanen,23,8,0,25,3-5,4-8,53.8%,5-7,71.4%,1,7,0,0,0,2,-14,23,UtahJazz
+SimoneFontecchio,15,6,2,31,1-2,3-10,33.3%,4-4,100.0%,3,3,2,2,0,4,-10,15,UtahJazz
+TalenHorton-Tucker,15,4,3,24,6-11,1-3,50.0%,0-2,0.0%,0,4,2,0,0,2,-8,11,UtahJazz
+KrisDunn,10,2,7,18,2-2,2-2,100.0%,0-0,-,0,2,1,1,0,3,13,19,UtahJazz
+KellyOlynyk,9,10,8,30,2-7,1-2,33.3%,2-2,100.0%,1,9,3,0,0,3,-1,18,UtahJazz
+WalkerKessler,9,8,1,23,4-7,0-0,57.1%,1-3,33.3%,3,5,2,0,3,3,3,14,UtahJazz
+TaylorHendricks,5,4,1,20,1-4,1-3,28.6%,0-0,-,2,2,1,2,1,3,25,7,UtahJazz
+OchaiAgbaji,5,4,2,30,1-7,1-5,16.7%,0-0,-,3,1,0,0,0,2,16,1,UtahJazz
+OmerYurtseven,0,3,0,5,0-1,0-0,0.0%,0-0,-,1,2,0,0,0,0,5,2,UtahJazz
+KeyonteGeorge,0,0,0,4,0-0,0-1,0.0%,0-0,-,0,0,2,0,0,1,0,-3,UtahJazz
+UtahJazz,117,54,31,240,27-56,16-42,43.9%,15-21,71.4%  ,16,38,15,5,4,27,20,134,UtahJazz
+JuliusRandle,32,12,6,39,12-17,2-6,60.9%,2-2,100.0%,3,9,2,1,1,4,13,41,NewYorkKnicks
+JalenBrunson,23,7,8,39,6-13,0-6,31.6%,11-16,68.8%,2,5,3,2,0,4,9,19,NewYorkKnicks
+DonteDiVincenzo,21,7,1,27,2-4,4-9,46.2%,5-7,71.4%,3,4,0,4,0,2,12,24,NewYorkKnicks
+ImmanuelQuickley,15,2,1,18,3-4,3-4,75.0%,0-0,-,1,1,1,2,0,1,-13,17,NewYorkKnicks
+R.J.Barrett,9,6,2,24,3-9,0-7,18.8%,3-4,75.0%,1,5,0,0,0,2,-4,3,NewYorkKnicks
+IsaiahHartenstein,7,6,0,29,3-4,0-0,75.0%,1-1,100.0%,3,3,0,0,1,3,5,13,NewYorkKnicks
+JerichoSims,4,2,0,18,2-2,0-0,100.0%,0-0,-,1,1,1,0,1,2,-8,6,NewYorkKnicks
+QuentinGrimes,2,2,1,16,1-1,0-3,25.0%,0-2,0.0%,0,2,1,0,0,1,-27,-1,NewYorkKnicks
+JoshHart,0,2,2,29,0-1,0-4,0.0%,0-0,-,0,2,0,1,0,2,-7,0,NewYorkKnicks
+NewYorkKnicks,113,48,21,240,32-55,9-39,43.6%,22-32,68.8%  ,15,33,9,10,3,21,-20,122,NewYorkKnicks

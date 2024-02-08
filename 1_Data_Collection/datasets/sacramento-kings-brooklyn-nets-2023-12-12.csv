@@ -1,0 +1,30 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+De&#039;AaronFox,29,3,8,33,5-12,5-10,45.5%,4-6,66.7%,0,3,3,0,0,4,31,23,SacramentoKings
+KeeganMurray,24,3,3,34,5-9,4-4,69.2%,2-2,100.0%,1,2,0,0,0,4,17,26,SacramentoKings
+MalikMonk,21,2,9,28,4-6,4-7,61.5%,1-1,100.0%,1,1,2,1,0,0,12,26,SacramentoKings
+TreyLyles,17,6,1,23,1-1,5-6,85.7%,0-0,-,0,6,0,0,1,0,9,24,SacramentoKings
+DomantasSabonis,15,16,9,34,5-13,1-1,42.9%,2-4,50.0%,4,12,4,2,0,2,11,28,SacramentoKings
+HarrisonBarnes,14,2,1,27,2-3,3-4,71.4%,1-1,100.0%,0,2,1,0,1,1,22,15,SacramentoKings
+KevinHuerter,6,1,1,17,0-1,2-5,33.3%,0-0,-,0,1,0,0,0,4,2,4,SacramentoKings
+KeonEllis,3,1,2,15,0-0,1-4,25.0%,0-0,-,0,1,0,1,0,1,-10,4,SacramentoKings
+SashaVezenkov,2,5,0,11,1-2,0-2,25.0%,0-0,-,1,4,1,0,1,2,-3,4,SacramentoKings
+JaValeMcGee,0,3,2,8,0-2,0-0,0.0%,0-0,-,2,1,1,0,0,3,7,2,SacramentoKings
+DavionMitchell,0,1,1,3,0-0,0-1,0.0%,0-0,-,1,0,0,0,0,0,-7,1,SacramentoKings
+ChrisDuarte,0,0,1,3,0-0,0-1,0.0%,0-0,-,0,0,0,0,0,0,-7,0,SacramentoKings
+ColbyJones,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,1,-6,0,SacramentoKings
+KesslerEdwards,0,0,0,3,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-7,0,SacramentoKings
+JalenSlawson,0,0,0,1,0-0,0-0,-,0-0,-,0,0,1,0,0,2,-6,-1,SacramentoKings
+SacramentoKings,131,48,38,240,23-49,25-45,51.1%,10-14,71.4%  ,14,34,13,4,3,27,65,156,SacramentoKings
+MikalBridges,22,5,5,37,3-8,3-5,46.2%,7-7,100.0%,2,3,5,0,0,1,-13,20,BrooklynNets
+SpencerDinwiddie,18,2,7,34,4-7,2-8,40.0%,4-5,80.0%,0,2,3,0,0,2,-19,14,BrooklynNets
+CamThomas,18,0,3,31,5-14,2-6,35.0%,2-2,100.0%,0,0,2,0,0,2,-15,6,BrooklynNets
+CameronJohnson,15,4,2,32,3-9,3-4,46.2%,0-0,-,0,4,1,1,0,0,-5,14,BrooklynNets
+DorianFinney-Smith,13,3,1,25,2-2,3-4,83.3%,0-0,-,0,3,0,1,2,0,-10,19,BrooklynNets
+NicClaxton,8,10,0,26,3-6,0-0,50.0%,2-2,100.0%,4,6,0,0,3,2,-24,18,BrooklynNets
+TrendonWatford,8,5,2,11,3-4,0-0,75.0%,2-2,100.0%,1,4,1,1,0,3,4,14,BrooklynNets
+RoyceO&#039;Neale,5,4,1,19,0-2,1-1,33.3%,2-2,100.0%,1,3,0,0,0,0,-2,8,BrooklynNets
+Day&#039;RonSharpe,4,7,2,14,2-4,0-0,50.0%,0-0,-,1,6,1,1,1,2,7,12,BrooklynNets
+HarryGiles,3,0,0,4,1-1,0-1,50.0%,1-1,100.0%,0,0,0,0,0,1,4,2,BrooklynNets
+JalenWilson,2,1,0,4,1-1,0-0,100.0%,0-0,-,1,0,0,0,0,0,4,3,BrooklynNets
+ArmoniBrooks,2,0,1,4,1-1,0-0,100.0%,0-0,-,0,0,0,0,0,0,4,3,BrooklynNets
+BrooklynNets,118,49,24,240,28-59,14-29,47.7%,20-21,95.2%  ,10,39,13,4,6,13,-65,133,BrooklynNets

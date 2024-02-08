@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+ZionWilliamson,25,5,3,32,9-16,0-0,56.3%,7-10,70.0%,2,3,0,0,0,2,-4,23,NewOrleansPelicans
+BrandonIngram,16,7,3,32,5-7,1-3,60.0%,3-3,100.0%,1,6,1,0,1,1,-10,22,NewOrleansPelicans
+JordanHawkins,15,5,0,24,1-3,4-8,45.5%,1-1,100.0%,0,5,1,1,0,3,-3,14,NewOrleansPelicans
+C.J.McCollum,13,1,6,33,4-6,1-6,41.7%,2-3,66.7%,0,1,0,2,3,3,-19,17,NewOrleansPelicans
+HerbertJones,13,2,1,33,5-8,1-5,46.2%,0-0,-,1,1,3,3,1,1,-26,10,NewOrleansPelicans
+DysonDaniels,7,3,5,22,2-2,1-2,75.0%,0-0,-,1,2,0,1,1,0,-4,16,NewOrleansPelicans
+JonasValanciunas,6,7,0,21,3-6,0-0,50.0%,0-0,-,2,5,3,1,1,1,-20,9,NewOrleansPelicans
+LarryNance,6,3,1,15,2-3,0-2,40.0%,2-2,100.0%,1,2,0,0,0,1,6,7,NewOrleansPelicans
+MattRyan,4,2,1,17,1-1,0-3,25.0%,2-2,100.0%,1,1,1,0,0,2,-5,3,NewOrleansPelicans
+KiraLewis,0,0,4,10,0-1,0-2,0.0%,0-0,-,0,0,0,1,0,1,-4,2,NewOrleansPelicans
+E.J.Liddell,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-1,0,NewOrleansPelicans
+NewOrleansPelicans,105,40,24,240,32-53,8-31,47.6%,17-21,81.0%  ,9,31,9,9,7,15,-90,123,NewOrleansPelicans
+TraeYoung,22,5,12,39,4-8,3-7,46.7%,5-6,83.3%,3,2,5,1,0,3,18,26,AtlantaHawks
+JalenT.Johnson,21,11,4,36,6-10,2-3,61.5%,3-4,75.0%,2,9,1,0,0,3,19,29,AtlantaHawks
+DejounteMurray,20,8,7,37,6-11,2-9,40.0%,2-2,100.0%,2,6,3,0,0,1,13,20,AtlantaHawks
+ClintCapela,17,7,0,28,8-9,0-0,88.9%,1-2,50.0%,2,5,0,0,2,2,19,24,AtlantaHawks
+OnyekaOkongwu,17,6,0,20,2-3,2-3,66.7%,7-8,87.5%,2,4,0,1,1,0,-1,22,AtlantaHawks
+SaddiqBey,12,5,2,26,3-6,2-7,38.5%,0-0,-,4,1,0,1,0,2,4,12,AtlantaHawks
+BogdanBogdanovic,10,5,2,21,2-4,2-10,28.6%,0-0,-,3,2,0,1,2,1,7,10,AtlantaHawks
+De&#039;AndreHunter,4,5,1,30,0-1,1-2,33.3%,1-2,50.0%,1,4,2,0,0,3,17,5,AtlantaHawks
+GarrisonMathews,0,0,0,4,0-0,0-0,-,0-0,-,0,0,0,0,0,1,-6,0,AtlantaHawks
+AtlantaHawks,123,58,28,240,31-52,14-41,48.4%,19-24,79.2%  ,23,35,12,4,5,17,90,148,AtlantaHawks

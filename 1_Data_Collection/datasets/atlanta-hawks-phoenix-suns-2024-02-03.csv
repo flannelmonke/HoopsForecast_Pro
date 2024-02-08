@@ -1,0 +1,21 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+TraeYoung,32,1,15,42,5-6,7-11,70.6%,1-2,50.0%,0,1,7,3,1,2,-1,39,AtlantaHawks
+BogdanBogdanovic,23,4,5,34,4-5,4-7,66.7%,3-3,100.0%,1,3,0,0,0,2,13,28,AtlantaHawks
+DejounteMurray,22,8,5,39,6-9,1-8,41.2%,7-8,87.5%,0,8,1,1,0,2,10,24,AtlantaHawks
+JalenT.Johnson,16,7,4,38,4-8,2-6,42.9%,2-3,66.7%,0,7,1,1,1,2,-2,19,AtlantaHawks
+OnyekaOkongwu,15,7,0,27,6-7,1-1,87.5%,0-0,-,3,4,0,1,2,1,23,24,AtlantaHawks
+ClintCapela,11,10,0,21,5-10,0-0,50.0%,1-2,50.0%,6,4,0,0,0,2,-14,15,AtlantaHawks
+WesleyMatthews,6,1,0,13,0-1,2-5,33.3%,0-0,-,0,1,0,0,0,2,4,3,AtlantaHawks
+PattyMills,2,2,0,10,1-1,0-3,25.0%,0-0,-,0,2,0,1,0,0,9,2,AtlantaHawks
+SaddiqBey,2,3,0,16,1-4,0-3,14.3%,0-0,-,2,1,0,0,0,0,3,-1,AtlantaHawks
+AtlantaHawks,129,48,29,240,32-51,17-44,51.6%,14-18,77.8%  ,13,35,10,7,4,13,45,153,AtlantaHawks
+KevinDurant,35,8,8,38,9-15,5-9,58.3%,2-2,100.0%,1,7,4,2,1,3,-1,40,PhoenixSuns
+DevinBooker,24,6,4,38,5-8,3-8,50.0%,5-6,83.3%,2,4,2,1,0,4,4,24,PhoenixSuns
+JusufNurkic,14,9,3,23,7-9,0-0,77.8%,0-1,0.0%,1,8,1,1,1,2,-3,24,PhoenixSuns
+BradleyBeal,14,4,10,40,5-9,0-7,31.3%,4-4,100.0%,1,3,4,0,0,2,-6,13,PhoenixSuns
+GraysonAllen,12,2,4,31,4-4,1-3,71.4%,1-1,100.0%,0,2,2,1,2,4,2,17,PhoenixSuns
+DrewEubanks,6,4,1,17,3-3,0-0,100.0%,0-0,-,2,2,1,0,0,1,-7,10,PhoenixSuns
+EricGordon,6,3,1,28,0-0,2-5,40.0%,0-0,-,0,3,2,1,0,1,-14,6,PhoenixSuns
+KeitaBates-Diop,6,2,0,10,0-1,2-4,40.0%,0-0,-,1,1,0,0,0,0,-8,5,PhoenixSuns
+JoshOkogie,3,0,0,15,0-2,1-1,33.3%,0-0,-,0,0,0,0,1,0,-12,2,PhoenixSuns
+PhoenixSuns,120,42,31,240,33-51,14-37,53.4%,12-14,85.7%  ,10,32,17,6,5,17,-45,141,PhoenixSuns

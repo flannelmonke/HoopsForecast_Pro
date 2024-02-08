@@ -1,0 +1,24 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+PaulGeorge,38,7,5,34,9-12,6-12,62.5%,2-4,50.0%,0,7,0,3,0,2,13,42,LAClippers
+KawhiLeonard,16,6,6,37,3-6,3-4,60.0%,1-2,50.0%,1,5,3,0,1,0,19,21,LAClippers
+JamesHarden,16,5,8,41,1-4,4-10,35.7%,2-2,100.0%,0,5,1,0,1,2,8,20,LAClippers
+MasonPlumlee,14,5,2,28,5-5,0-0,100.0%,4-7,57.1%,2,3,0,0,3,2,13,21,LAClippers
+RussellWestbrook,11,2,4,22,4-5,0-3,50.0%,3-4,75.0%,1,1,2,1,0,0,6,11,LAClippers
+DanielTheis,9,8,0,20,3-4,1-2,66.7%,0-0,-,5,3,2,0,3,3,-2,16,LAClippers
+AmirCoffey,9,3,0,16,0-1,3-3,75.0%,0-0,-,1,2,0,0,0,2,-2,11,LAClippers
+NormanPowell,8,0,1,19,0-3,2-7,20.0%,2-4,50.0%,0,0,0,1,0,3,-5,0,LAClippers
+TeranceMann,7,3,4,24,2-4,1-2,50.0%,0-0,-,2,1,1,0,2,4,5,12,LAClippers
+LAClippers,128,39,30,240,27-44,20-43,54.0%,14-23,60.9%  ,12,27,9,5,10,18,55,154,LAClippers
+JalenWilliams,25,3,7,33,8-11,2-3,71.4%,3-3,100.0%,0,3,4,0,0,5,-5,27,OklahomaCityThunder
+ShaiGilgeous-Alexander,19,2,4,34,6-13,0-3,37.5%,7-8,87.5%,1,1,2,0,2,4,-19,14,OklahomaCityThunder
+LuguentzDort,19,1,1,33,1-2,5-8,60.0%,2-2,100.0%,0,1,3,0,0,2,-15,14,OklahomaCityThunder
+IsaiahJoe,15,6,3,23,0-1,5-6,71.4%,0-0,-,3,3,0,2,0,2,-12,24,OklahomaCityThunder
+JoshGiddey,9,4,4,19,3-6,1-3,44.4%,0-0,-,1,3,0,0,0,0,-2,12,OklahomaCityThunder
+ChetHolmgren,8,5,5,33,2-8,0-2,20.0%,4-6,66.7%,0,5,1,0,1,4,-14,8,OklahomaCityThunder
+AaronWiggins,7,4,2,17,2-3,1-1,75.0%,0-0,-,0,4,0,1,0,0,4,13,OklahomaCityThunder
+VasilijeMicic,7,1,2,11,3-3,0-1,75.0%,1-1,100.0%,0,1,0,0,0,0,8,9,OklahomaCityThunder
+CasonWallace,5,2,1,15,1-2,1-2,50.0%,0-0,-,2,0,0,1,1,1,-1,8,OklahomaCityThunder
+KenrichWilliams,3,6,1,16,0-0,1-4,25.0%,0-0,-,2,4,1,1,1,1,1,8,OklahomaCityThunder
+OlivierSarr,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,0,0,OklahomaCityThunder
+OusmaneDieng,0,1,0,4,0-0,0-1,0.0%,0-0,-,0,1,1,0,0,0,0,-1,OklahomaCityThunder
+OklahomaCityThunder,117,35,30,240,26-49,16-34,50.6%,17-20,85.0%  ,9,26,12,5,5,19,-55,136,OklahomaCityThunder

@@ -1,0 +1,21 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+TerryRozier,34,2,13,39,2-4,8-13,58.8%,6-7,85.7%,1,1,3,0,0,4,4,38,CharlotteHornets
+MilesBridges,18,4,1,34,5-8,2-6,50.0%,2-2,100.0%,1,3,2,0,0,3,3,14,CharlotteHornets
+GordonHayward,17,6,7,32,6-9,1-3,58.3%,2-4,50.0%,0,6,0,1,0,4,-13,24,CharlotteHornets
+BrandonMiller,16,4,2,30,3-6,3-8,42.9%,1-1,100.0%,0,4,2,0,0,5,3,12,CharlotteHornets
+P.J.Washington,15,8,3,32,3-5,2-6,45.5%,3-4,75.0%,1,7,0,0,1,3,6,20,CharlotteHornets
+NickRichards,6,6,1,26,2-6,0-0,33.3%,2-2,100.0%,3,3,0,0,0,1,-14,9,CharlotteHornets
+IshmaelSmith,5,0,3,15,1-3,1-1,50.0%,0-0,-,0,0,2,1,0,0,-3,5,CharlotteHornets
+BryceMcGowens,3,1,1,23,1-2,0-2,25.0%,1-2,50.0%,0,1,1,0,0,2,9,0,CharlotteHornets
+J.T.Thor,0,0,0,9,0-0,0-2,0.0%,0-0,-,0,0,0,1,1,0,-5,0,CharlotteHornets
+CharlotteHornets,114,36,31,240,23-43,17-41,47.6%,17-22,77.3%  ,10,26,10,3,2,25,-10,122,CharlotteHornets
+DuncanRobinson,24,7,4,33,3-5,5-9,57.1%,3-3,100.0%,1,6,0,2,0,0,1,31,MiamiHeat
+JimmyButler,23,4,8,36,6-11,1-1,58.3%,8-9,88.9%,2,2,3,1,1,4,13,28,MiamiHeat
+CalebMartin,20,9,5,39,6-10,1-4,50.0%,5-7,71.4%,2,7,3,0,0,3,0,22,MiamiHeat
+KevinLove,19,6,1,21,3-3,4-8,63.6%,1-1,100.0%,1,5,0,1,0,1,8,23,MiamiHeat
+JaimeJaquez,18,0,1,24,3-5,2-3,62.5%,6-6,100.0%,0,0,2,0,0,6,-2,14,MiamiHeat
+OrlandoRobinson,7,6,2,22,1-3,1-2,40.0%,2-4,50.0%,1,5,1,0,2,5,-7,11,MiamiHeat
+KyleLowry,3,5,5,35,0-2,1-4,16.7%,0-2,0.0%,1,4,1,2,0,3,6,7,MiamiHeat
+JoshRichardson,2,4,4,25,0-3,0-4,0.0%,2-2,100.0%,0,4,0,1,0,0,-11,4,MiamiHeat
+ThomasBryant,0,2,1,4,0-0,0-0,-,0-0,-,0,2,0,0,0,0,2,3,MiamiHeat
+MiamiHeat,116,51,31,240,22-42,15-35,48.1%,27-34,79.4%  ,8,43,10,7,3,22,10,143,MiamiHeat
