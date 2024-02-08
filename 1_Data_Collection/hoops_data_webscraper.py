@@ -6,7 +6,7 @@ links = open('links.txt', 'r')
 links = links.readlines()
 
 
-for link in links[0:100]:
+for link in links[100:200]:
     url = link.strip()
 
     fp = urllib.request.urlopen(url)
