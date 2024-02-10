@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+DevinVassell,24,5,4,35,8-14,1-5,47.4%,5-6,83.3%,1,4,5,0,1,1,-3,18,SanAntonioSpurs
+VictorWembanyama,22,11,4,31,9-15,0-4,47.4%,4-4,100.0%,3,8,4,1,3,1,-12,27,SanAntonioSpurs
+CediOsman,20,3,2,29,4-6,4-6,66.7%,0-0,-,2,1,0,2,0,1,-5,23,SanAntonioSpurs
+KeldonJohnson,14,5,3,31,3-5,2-5,50.0%,2-2,100.0%,0,5,2,3,0,1,-4,18,SanAntonioSpurs
+TreJones,11,2,8,33,4-10,1-2,41.7%,0-0,-,0,2,0,0,0,0,-6,14,SanAntonioSpurs
+BlakeWesley,7,1,2,12,1-3,1-1,50.0%,2-2,100.0%,0,1,1,3,1,3,2,11,SanAntonioSpurs
+DougMcDermott,6,1,1,10,0-0,2-4,50.0%,0-0,-,1,0,0,0,0,2,-5,6,SanAntonioSpurs
+DominickBarlow,4,2,5,14,1-3,0-0,33.3%,2-2,100.0%,1,1,1,0,0,6,10,8,SanAntonioSpurs
+JulianChampagnie,3,1,1,20,0-1,1-1,50.0%,0-1,0.0%,0,1,1,0,2,0,2,4,SanAntonioSpurs
+JeremySochan,2,5,1,26,1-5,0-2,14.3%,0-0,-,2,3,0,1,0,2,-4,3,SanAntonioSpurs
+SanAntonioSpurs,113,39,31,240,31-62,12-30,46.7%,15-17,88.2%  ,10,29,16,10,7,17,-25,132,SanAntonioSpurs
+KyleKuzma,18,11,5,32,7-14,0-4,38.9%,4-4,100.0%,2,9,2,0,2,2,3,23,WashingtonWizards
+DanielGafford,16,13,2,28,6-8,0-0,75.0%,4-8,50.0%,8,5,1,2,1,2,3,27,WashingtonWizards
+TyusJones,15,2,9,33,6-12,1-4,43.8%,0-0,-,1,1,1,2,1,0,5,19,WashingtonWizards
+MarvinBagley,15,3,1,20,5-6,0-0,83.3%,5-6,83.3%,0,3,5,0,0,3,2,12,WashingtonWizards
+BilalCoulibaly,13,1,1,31,3-4,2-2,83.3%,1-1,100.0%,1,0,1,2,1,2,13,16,WashingtonWizards
+JordanPoole,13,1,3,33,5-8,1-5,46.2%,0-0,-,0,1,4,2,1,2,5,9,WashingtonWizards
+DeniAvdija,9,8,5,25,3-6,0-0,50.0%,3-5,60.0%,2,6,3,1,1,3,-13,16,WashingtonWizards
+CoreyKispert,8,4,3,20,1-1,2-5,50.0%,0-0,-,0,4,1,0,1,1,-3,12,WashingtonWizards
+LandryShamet,6,0,2,10,0-0,2-4,50.0%,0-0,-,0,0,0,0,0,0,5,6,WashingtonWizards
+DelonWright,5,2,1,9,1-2,1-1,66.7%,0-0,-,0,2,0,0,0,0,5,7,WashingtonWizards
+WashingtonWizards,118,47,32,240,37-61,9-25,53.5%,17-24,70.8%  ,14,33,18,9,8,15,25,147,WashingtonWizards

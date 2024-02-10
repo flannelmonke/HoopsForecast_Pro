@@ -1,0 +1,20 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+TerryRozier,23,6,7,35,5-13,3-7,40.0%,4-5,80.0%,1,5,1,2,0,4,-6,24,CharlotteHornets
+MilesBridges,22,3,4,36,6-13,2-5,44.4%,4-4,100.0%,1,2,1,1,0,5,-7,19,CharlotteHornets
+P.J.Washington,18,7,5,31,3-7,4-7,50.0%,0-0,-,3,4,1,0,1,1,8,23,CharlotteHornets
+GordonHayward,17,2,3,31,6-9,1-2,63.6%,2-2,100.0%,1,1,2,2,0,1,-14,18,CharlotteHornets
+BrandonMiller,14,5,3,36,3-9,2-4,38.5%,2-2,100.0%,1,4,2,0,2,3,-8,14,CharlotteHornets
+MarkWilliams,11,6,0,29,4-6,0-0,66.7%,3-4,75.0%,2,4,1,0,0,6,-8,13,CharlotteHornets
+IshmaelSmith,6,4,5,16,3-3,0-0,100.0%,0-0,-,1,3,0,0,0,0,3,15,CharlotteHornets
+NickRichards,4,3,1,9,1-3,0-0,33.3%,2-2,100.0%,1,2,0,1,1,1,-3,8,CharlotteHornets
+BryceMcGowens,2,1,1,16,1-4,0-0,25.0%,0-0,-,0,1,0,0,0,1,5,1,CharlotteHornets
+CharlotteHornets,117,40,29,240,32-67,12-25,47.8%,17-19,89.5%  ,11,29,11,6,4,26,-30,135,CharlotteHornets
+Karl-AnthonyTowns,28,7,5,32,8-15,4-8,52.2%,0-0,-,3,4,3,0,1,3,12,27,MinnesotaTimberwolves
+RudyGobert,26,12,0,39,10-12,0-0,83.3%,6-9,66.7%,2,10,1,0,3,1,10,35,MinnesotaTimberwolves
+NazReid,23,5,2,25,6-8,3-6,64.3%,2-2,100.0%,2,3,2,1,0,0,-7,24,MinnesotaTimberwolves
+MikeConley,14,5,10,34,2-2,1-7,33.3%,7-8,87.5%,0,5,1,0,0,2,10,21,MinnesotaTimberwolves
+KyleAnderson,11,6,4,26,2-6,0-0,33.3%,7-7,100.0%,2,4,2,2,0,3,2,17,MinnesotaTimberwolves
+TroyBrown,9,3,1,32,0-1,3-6,42.9%,0-0,-,1,2,1,1,0,4,15,9,MinnesotaTimberwolves
+NickeilAlexander-Walker,6,2,2,30,2-3,0-2,40.0%,2-2,100.0%,0,2,1,0,0,1,-7,6,MinnesotaTimberwolves
+ShakeMilton,6,1,2,23,2-6,0-2,25.0%,2-2,100.0%,0,1,0,1,0,2,-5,4,MinnesotaTimberwolves
+MinnesotaTimberwolves,123,44,26,240,32-53,11-31,51.2%,26-30,86.7%  ,12,32,11,5,4,16,30,143,MinnesotaTimberwolves

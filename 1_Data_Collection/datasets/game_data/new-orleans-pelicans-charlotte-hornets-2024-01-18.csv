@@ -1,0 +1,28 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+BrandonIngram,28,10,10,34,1-8,7-11,42.1%,5-5,100.0%,1,9,2,3,0,3,20,38,NewOrleansPelicans
+C.J.McCollum,22,5,6,29,4-6,4-9,53.3%,2-2,100.0%,2,3,1,0,2,2,4,27,NewOrleansPelicans
+JordanHawkins,21,6,1,24,1-3,6-9,58.3%,1-2,50.0%,2,4,2,1,0,1,5,21,NewOrleansPelicans
+TreyMurphyIII,18,5,1,24,1-1,5-12,46.2%,1-2,50.0%,0,5,2,1,0,2,18,15,NewOrleansPelicans
+ZionWilliamson,13,6,9,27,5-12,0-0,41.7%,3-4,75.0%,3,3,2,3,0,1,6,21,NewOrleansPelicans
+HerbertJones,9,1,1,24,1-2,2-3,60.0%,1-2,50.0%,0,1,0,2,0,0,15,10,NewOrleansPelicans
+NajiMarshall,8,2,1,17,3-4,0-1,60.0%,2-2,100.0%,1,1,0,1,0,0,4,10,NewOrleansPelicans
+LarryNance,7,6,2,19,2-2,1-1,100.0%,0-0,-,2,4,0,0,1,1,21,16,NewOrleansPelicans
+JonasValanciunas,4,7,0,25,1-3,0-0,33.3%,2-2,100.0%,3,4,1,0,0,1,4,8,NewOrleansPelicans
+JoseAlvarado,2,0,0,3,0-0,0-0,-,2-2,100.0%,0,0,0,0,0,2,-2,2,NewOrleansPelicans
+CodyZeller,0,1,0,3,0-0,0-0,-,0-0,-,1,0,0,0,0,0,-2,1,NewOrleansPelicans
+DysonDaniels,0,2,1,13,0-1,0-1,0.0%,0-0,-,2,0,2,0,0,1,7,-1,NewOrleansPelicans
+NewOrleansPelicans,132,51,32,240,19-42,25-47,49.4%,19-23,82.6%  ,17,34,12,11,3,14,100,168,NewOrleansPelicans
+LaMeloBall,29,5,7,31,4-7,4-12,42.1%,9-10,90.0%,0,5,4,2,0,5,-12,27,CharlotteHornets
+TerryRozier,25,2,4,32,2-4,7-11,60.0%,0-0,-,1,1,1,1,1,1,-9,26,CharlotteHornets
+MilesBridges,19,4,3,35,5-13,3-7,40.0%,0-0,-,0,4,2,0,0,1,-12,12,CharlotteHornets
+NickRichards,10,12,2,31,4-5,0-0,80.0%,2-2,100.0%,5,7,0,0,2,2,-5,25,CharlotteHornets
+P.J.Washington,7,5,2,24,2-5,1-4,33.3%,0-0,-,4,1,1,1,2,3,-10,10,CharlotteHornets
+CodyMartin,7,4,4,28,1-4,1-5,22.2%,2-2,100.0%,1,3,0,2,0,2,-15,10,CharlotteHornets
+JamesBouknight,6,0,0,4,0-1,2-2,66.7%,0-0,-,0,0,0,0,0,0,-1,5,CharlotteHornets
+NathanMensah,4,2,0,13,1-2,0-0,50.0%,2-2,100.0%,1,1,1,0,1,4,-21,5,CharlotteHornets
+NickSmith,3,3,3,17,0-3,1-2,20.0%,0-0,-,2,1,1,0,0,1,-9,4,CharlotteHornets
+IshmaelSmith,2,1,2,11,1-1,0-0,100.0%,0-0,-,0,1,0,0,1,0,-9,6,CharlotteHornets
+J.T.Thor,0,2,1,7,0-0,0-1,0.0%,0-0,-,1,1,1,0,1,0,5,2,CharlotteHornets
+FrankNtilikina,0,1,1,4,0-0,0-1,0.0%,0-0,-,0,1,1,0,0,0,-1,0,CharlotteHornets
+LeakyBlack,0,0,0,4,0-0,0-0,-,0-2,0.0%,0,0,1,1,0,0,-1,-2,CharlotteHornets
+CharlotteHornets,112,41,29,240,20-45,19-45,43.3%,15-18,83.3%  ,15,26,13,7,8,19,-100,130,CharlotteHornets

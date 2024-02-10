@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+GiannisAntetokounmpo,37,10,2,41,13-18,0-1,68.4%,11-13,84.6%,1,9,1,0,2,3,-5,42,MilwaukeeBucks
+DamianLillard,24,7,7,42,3-11,4-9,35.0%,6-6,100.0%,0,7,3,1,1,2,6,24,MilwaukeeBucks
+KhrisMiddleton,20,7,4,30,3-8,4-5,53.8%,2-2,100.0%,1,6,4,2,0,2,-3,23,MilwaukeeBucks
+BrookLopez,18,6,2,37,4-7,3-10,41.2%,1-3,33.3%,2,4,1,0,4,5,-3,17,MilwaukeeBucks
+MalikBeasley,7,3,1,36,2-5,1-4,33.3%,0-0,-,1,2,0,0,0,2,6,5,MilwaukeeBucks
+MarJonBeauchamp,5,6,0,15,2-3,0-0,66.7%,1-4,25.0%,3,3,0,0,1,0,-17,8,MilwaukeeBucks
+BobbyPortis,4,6,1,18,2-4,0-1,40.0%,0-0,-,4,2,1,0,1,2,-6,8,MilwaukeeBucks
+CameronPayne,4,1,2,16,2-6,0-3,22.2%,0-0,-,0,1,2,0,0,0,-18,-2,MilwaukeeBucks
+AndreJacksonJr.,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,1,-4,0,MilwaukeeBucks
+A.J.Green,0,0,0,4,0-1,0-0,0.0%,0-0,-,0,0,0,0,0,0,-1,-1,MilwaukeeBucks
+MilwaukeeBucks,119,46,19,240,31-63,12-33,44.8%,21-28,75.0%  ,12,34,12,3,9,17,-45,124,MilwaukeeBucks
+TyreseHaliburton,27,7,15,37,8-10,3-9,57.9%,2-2,100.0%,3,4,0,0,1,1,0,42,IndianaPacers
+MylesTurner,26,10,2,32,7-10,2-8,50.0%,6-8,75.0%,1,9,0,1,3,2,-5,31,IndianaPacers
+ObiToppin,14,6,2,21,5-5,1-3,75.0%,1-2,50.0%,3,3,0,0,0,3,-7,19,IndianaPacers
+IsaiahJackson,11,6,0,16,5-7,0-0,71.4%,1-1,100.0%,1,5,1,1,0,1,14,15,IndianaPacers
+BruceBrown,10,3,1,28,3-8,0-1,33.3%,4-4,100.0%,0,3,1,1,0,2,-5,8,IndianaPacers
+T.J.McConnell,9,1,4,11,4-7,0-0,57.1%,1-2,50.0%,1,0,3,3,0,0,9,10,IndianaPacers
+BennedictMathurin,9,6,1,24,3-10,0-2,25.0%,3-3,100.0%,2,4,2,0,1,4,17,6,IndianaPacers
+BuddyHield,8,11,2,30,3-5,0-6,27.3%,2-2,100.0%,4,7,2,2,1,3,0,14,IndianaPacers
+AndrewNembhard,8,0,2,14,4-5,0-0,80.0%,0-0,-,0,0,0,1,1,0,6,11,IndianaPacers
+AaronNesmith,6,1,1,27,1-2,1-4,33.3%,1-1,100.0%,0,1,0,0,1,5,16,5,IndianaPacers
+IndianaPacers,128,51,30,240,43-69,7-33,49.0%,21-25,84.0%  ,15,36,9,9,8,21,45,161,IndianaPacers

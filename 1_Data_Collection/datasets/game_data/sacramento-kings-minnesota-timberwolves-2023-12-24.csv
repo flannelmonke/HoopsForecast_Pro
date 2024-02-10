@@ -1,0 +1,25 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+De&#039;AaronFox,27,4,6,39,7-12,3-11,43.5%,4-4,100.0%,2,2,3,2,0,1,-4,23,SacramentoKings
+KeeganMurray,20,7,0,40,5-9,3-7,50.0%,1-2,50.0%,1,6,1,3,1,4,-8,21,SacramentoKings
+DomantasSabonis,17,10,10,39,7-11,0-1,58.3%,3-5,60.0%,1,9,3,1,0,3,-17,28,SacramentoKings
+HarrisonBarnes,12,3,1,31,3-4,0-2,50.0%,6-6,100.0%,0,3,0,0,0,3,-12,13,SacramentoKings
+TreyLyles,10,7,3,27,3-4,1-4,50.0%,1-3,33.3%,3,4,1,0,0,1,7,13,SacramentoKings
+JaValeMcGee,7,2,1,9,3-6,0-0,50.0%,1-1,100.0%,0,2,1,1,1,2,5,8,SacramentoKings
+ChrisDuarte,3,4,0,18,0-0,1-3,33.3%,0-0,-,1,3,1,2,0,1,4,6,SacramentoKings
+KevinHuerter,2,1,1,15,1-5,0-2,14.3%,0-0,-,0,1,1,0,0,3,-19,-3,SacramentoKings
+ColbyJones,0,1,0,2,0-0,0-0,-,0-0,-,0,1,0,0,0,0,3,1,SacramentoKings
+SashaVezenkov,0,1,0,8,0-0,0-1,0.0%,0-0,-,0,1,0,1,0,1,-5,1,SacramentoKings
+KesslerEdwards,0,0,0,1,0-0,0-0,-,0-0,-,0,0,0,0,0,0,0,0,SacramentoKings
+KeonEllis,0,0,1,11,0-1,0-2,0.0%,0-0,-,0,0,0,0,0,1,-14,-2,SacramentoKings
+SacramentoKings,98,42,23,240,29-52,8-33,43.5%,16-21,76.2%  ,9,33,11,10,2,20,-60,109,SacramentoKings
+AnthonyEdwards,34,5,10,39,10-15,3-12,48.1%,5-5,100.0%,0,5,5,1,1,1,8,32,MinnesotaTimberwolves
+RudyGobert,21,17,1,39,10-13,0-0,76.9%,1-2,50.0%,6,11,1,0,2,3,27,36,MinnesotaTimberwolves
+JadenMcDaniels,20,5,1,41,5-7,3-9,50.0%,1-2,50.0%,0,5,0,4,1,4,12,22,MinnesotaTimberwolves
+MikeConley,12,7,9,32,1-3,3-7,40.0%,1-1,100.0%,0,7,2,2,0,1,28,22,MinnesotaTimberwolves
+KyleAnderson,10,5,5,29,4-9,0-0,44.4%,2-2,100.0%,1,4,2,0,1,4,9,14,MinnesotaTimberwolves
+NazReid,6,2,2,19,2-3,0-1,50.0%,2-2,100.0%,0,2,1,2,0,0,-13,9,MinnesotaTimberwolves
+ShakeMilton,5,1,1,14,1-2,1-2,50.0%,0-0,-,0,1,1,0,0,0,-6,4,MinnesotaTimberwolves
+NickeilAlexander-Walker,2,0,0,23,1-2,0-2,25.0%,0-0,-,0,0,0,0,0,2,-1,-1,MinnesotaTimberwolves
+JordanMcLaughlin,0,0,2,2,0-0,0-0,-,0-0,-,0,0,0,0,0,0,-1,2,MinnesotaTimberwolves
+TroyBrown,0,1,0,3,0-0,0-0,-,0-0,-,0,1,0,0,0,3,-3,1,MinnesotaTimberwolves
+MinnesotaTimberwolves,110,48,31,240,34-54,10-33,50.6%,12-14,85.7%  ,11,37,12,9,5,19,60,141,MinnesotaTimberwolves

@@ -1,0 +1,27 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+KyrieIrving,33,8,4,40,9-18,2-7,44.0%,9-10,90.0%,4,4,3,4,1,3,-2,32,DallasMavericks
+LukaDoncic,31,6,6,36,7-13,2-8,42.9%,11-15,73.3%,0,6,3,3,0,1,-14,27,DallasMavericks
+DerrickJones,11,4,2,36,5-8,0-1,55.6%,1-1,100.0%,0,4,0,0,1,1,-10,14,DallasMavericks
+JadenHardy,10,0,1,19,2-3,2-4,57.1%,0-0,-,0,0,1,0,0,2,-11,7,DallasMavericks
+TimHardawayJr.,9,3,2,30,1-3,2-3,50.0%,1-1,100.0%,0,3,1,0,0,3,-26,10,DallasMavericks
+DwightPowell,4,4,3,22,2-3,0-0,66.7%,0-0,-,1,3,2,2,1,3,9,11,DallasMavericks
+A.J.Lawson,3,2,0,5,0-1,1-2,33.3%,0-0,-,1,1,0,0,0,1,-3,3,DallasMavericks
+SethCurry,2,0,0,10,1-1,0-1,50.0%,0-0,-,0,0,1,0,0,1,-8,0,DallasMavericks
+RichaunHolmes,0,1,1,3,0-0,0-0,-,0-0,-,1,0,0,0,0,0,0,2,DallasMavericks
+JoshGreen,0,3,0,23,0-2,0-1,0.0%,0-0,-,1,2,0,0,1,1,1,1,DallasMavericks
+BrandonWilliams,0,1,1,3,0-1,0-0,0.0%,0-0,-,0,1,0,0,0,0,1,1,DallasMavericks
+MarkieffMorris,0,1,0,6,0-0,0-0,-,0-0,-,0,1,0,0,0,0,-2,1,DallasMavericks
+GrantWilliams,0,0,0,7,0-2,0-0,0.0%,0-0,-,0,0,1,0,0,1,-20,-3,DallasMavericks
+DallasMavericks,103,33,20,240,27-55,9-27,43.9%,22-27,81.5%  ,8,25,12,9,4,17,-85,106,DallasMavericks
+DesmondBane,32,9,4,39,9-18,2-9,40.7%,8-9,88.9%,2,7,2,0,0,3,17,26,MemphisGrizzlies
+MarcusSmart,23,4,1,21,5-8,4-8,56.3%,1-1,100.0%,0,4,1,2,0,0,16,22,MemphisGrizzlies
+XavierTillman,14,11,2,28,6-8,0-1,66.7%,2-4,50.0%,6,5,3,0,2,3,17,21,MemphisGrizzlies
+LukeKennard,14,5,4,23,2-3,3-4,71.4%,1-1,100.0%,1,4,2,1,0,2,-3,20,MemphisGrizzlies
+ZiaireWilliams,14,4,0,27,4-4,2-5,66.7%,0-0,-,1,3,1,1,0,1,12,15,MemphisGrizzlies
+DavidRoddy,11,5,3,25,2-5,1-2,42.9%,4-4,100.0%,2,3,2,0,0,2,11,13,MemphisGrizzlies
+VinceWilliamsJr.,6,6,6,30,0-3,2-5,25.0%,0-0,-,2,4,3,3,0,5,0,12,MemphisGrizzlies
+JohnKonchar,4,7,3,25,1-1,0-2,33.3%,2-2,100.0%,3,4,0,0,1,0,18,13,MemphisGrizzlies
+BismackBiyombo,2,2,4,18,1-2,0-0,50.0%,0-0,-,1,1,2,0,0,2,3,5,MemphisGrizzlies
+JakeLaRavia,0,1,0,2,0-1,0-0,0.0%,0-0,-,0,1,0,0,0,0,-3,0,MemphisGrizzlies
+GregoryJackson,0,0,0,2,0-1,0-1,0.0%,0-0,-,0,0,0,0,0,0,-3,-2,MemphisGrizzlies
+MemphisGrizzlies,120,54,27,240,30-54,14-37,48.4%,18-21,85.7%  ,18,36,16,7,3,18,85,145,MemphisGrizzlies

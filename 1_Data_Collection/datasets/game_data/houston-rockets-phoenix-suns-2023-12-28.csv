@@ -1,0 +1,27 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+AlperenSengun,24,5,1,29,8-14,1-4,50.0%,5-6,83.3%,1,4,0,2,0,3,-11,22,HoustonRockets
+JalenGreen,23,5,3,26,2-8,6-12,40.0%,1-2,50.0%,1,4,2,1,0,0,-17,17,HoustonRockets
+AaronHoliday,13,2,2,24,1-5,3-8,30.8%,2-2,100.0%,0,2,2,0,0,2,-3,6,HoustonRockets
+CamWhitmore,12,1,0,18,1-3,3-4,57.1%,1-2,50.0%,0,1,1,0,1,2,1,9,HoustonRockets
+FredVanVleet,10,2,6,29,3-8,1-3,36.4%,1-2,50.0%,1,1,1,0,0,2,-14,9,HoustonRockets
+JabariSmithJr.,9,3,0,22,1-2,1-3,40.0%,4-4,100.0%,0,3,1,2,0,1,-11,10,HoustonRockets
+Jae&#039;SeanTate,7,2,1,24,2-2,1-1,100.0%,0-0,-,1,1,0,1,0,3,-4,11,HoustonRockets
+TariEason,6,3,2,25,1-2,1-4,33.3%,1-2,50.0%,0,3,1,5,0,2,-20,10,HoustonRockets
+JockLandale,5,5,0,12,2-4,0-0,50.0%,1-2,50.0%,3,2,0,0,0,2,4,7,HoustonRockets
+AmenThompson,2,4,3,17,1-5,0-1,16.7%,0-0,-,2,2,0,0,1,2,2,5,HoustonRockets
+JeffGreen,2,1,1,7,1-2,0-1,33.3%,0-0,-,0,1,1,0,1,2,-9,2,HoustonRockets
+ReggieBullock,0,0,1,7,0-0,0-0,-,0-0,-,0,0,0,0,0,0,2,1,HoustonRockets
+HoustonRockets,113,33,20,240,23-55,17-41,41.7%,16-22,72.7%  ,9,24,9,11,3,21,-80,109,HoustonRockets
+KevinDurant,27,10,16,41,6-9,3-7,56.3%,6-8,75.0%,0,10,3,2,1,2,17,44,PhoenixSuns
+EricGordon,27,0,1,39,3-4,7-11,66.7%,0-0,-,0,0,0,0,3,1,11,26,PhoenixSuns
+DevinBooker,20,4,7,36,8-13,1-6,47.4%,1-1,100.0%,1,3,4,2,0,2,13,19,PhoenixSuns
+GraysonAllen,16,4,3,33,3-3,2-4,71.4%,4-4,100.0%,1,3,3,0,1,1,15,19,PhoenixSuns
+UdokaAzubuike,11,5,0,19,5-7,0-0,71.4%,1-3,33.3%,3,2,0,0,2,4,15,14,PhoenixSuns
+SabenLee,9,2,1,12,2-2,0-0,100.0%,5-5,100.0%,0,2,2,0,0,1,3,10,PhoenixSuns
+JusufNurkic,8,10,0,14,2-5,1-1,50.0%,1-2,50.0%,1,9,3,0,2,4,2,13,PhoenixSuns
+NassirLittle,7,6,0,16,3-3,0-3,50.0%,1-1,100.0%,0,6,1,0,0,1,2,9,PhoenixSuns
+ChimezieMetu,4,2,0,16,1-1,0-0,100.0%,2-2,100.0%,1,1,3,0,0,0,1,3,PhoenixSuns
+BolBol,0,0,0,2,0-0,0-0,-,0-0,-,0,0,0,0,2,0,-2,2,PhoenixSuns
+JoshOkogie,0,1,0,10,0-1,0-1,0.0%,0-0,-,1,0,0,0,0,1,5,-1,PhoenixSuns
+YutaWatanabe,0,0,0,2,0-1,0-0,0.0%,0-0,-,0,0,0,0,0,0,-2,-1,PhoenixSuns
+PhoenixSuns,129,44,28,240,33-49,14-33,57.3%,21-26,80.8%  ,8,36,19,4,11,17,80,157,PhoenixSuns

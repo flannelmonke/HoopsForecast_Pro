@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+JimmyButler,31,7,6,35,8-11,2-3,71.4%,9-12,75.0%,1,6,1,1,0,2,-1,37,MiamiHeat
+JoshRichardson,24,5,3,27,3-5,6-10,60.0%,0-0,-,0,5,0,0,1,2,5,27,MiamiHeat
+BamAdebayo,16,11,4,32,8-14,0-0,57.1%,0-0,-,2,9,0,0,0,4,2,25,MiamiHeat
+TylerHerro,14,8,8,31,2-5,2-4,44.4%,4-6,66.7%,1,7,2,0,0,1,-1,21,MiamiHeat
+KevinLove,8,3,3,14,0-1,2-3,50.0%,2-2,100.0%,1,2,0,0,0,0,10,12,MiamiHeat
+JaimeJaquez,8,4,1,25,3-8,0-1,33.3%,2-2,100.0%,0,4,2,0,0,2,15,5,MiamiHeat
+CalebMartin,7,3,2,28,3-5,0-2,42.9%,1-1,100.0%,0,3,1,0,0,3,12,7,MiamiHeat
+HaywoodHighsmith,4,2,1,16,2-3,0-1,50.0%,0-0,-,1,1,1,0,0,1,5,4,MiamiHeat
+TerryRozier,3,5,10,30,0-4,1-4,12.5%,0-0,-,1,4,1,2,1,1,1,13,MiamiHeat
+ThomasBryant,0,1,0,3,0-0,0-0,-,0-0,-,0,1,0,0,0,0,-3,1,MiamiHeat
+MiamiHeat,115,55,38,240,29-56,13-28,50.0%,18-23,78.3%  ,11,44,8,3,2,16,45,152,MiamiHeat
+KeeganMurray,33,5,2,38,5-7,7-11,66.7%,2-2,100.0%,1,4,0,1,2,5,4,37,SacramentoKings
+DomantasSabonis,19,17,13,38,6-13,1-1,50.0%,4-6,66.7%,4,13,1,1,1,0,0,41,SacramentoKings
+KevinHuerter,14,3,4,39,4-6,2-6,50.0%,0-0,-,1,2,1,1,0,4,-1,15,SacramentoKings
+De&#039;AaronFox,13,5,3,37,3-8,1-8,25.0%,4-6,66.7%,0,5,2,2,0,3,-4,7,SacramentoKings
+HarrisonBarnes,9,5,1,37,4-7,0-6,30.8%,1-2,50.0%,2,3,1,0,0,1,1,4,SacramentoKings
+MalikMonk,6,0,0,14,3-4,0-4,37.5%,0-0,-,0,0,3,0,0,2,-16,-2,SacramentoKings
+TreyLyles,5,4,2,18,1-2,1-4,33.3%,0-0,-,2,2,0,1,0,1,-10,8,SacramentoKings
+JaValeMcGee,4,4,0,6,2-3,0-0,66.7%,0-1,0.0%,2,2,0,0,0,0,-9,6,SacramentoKings
+DavionMitchell,3,1,1,12,1-2,0-0,50.0%,1-1,100.0%,0,1,1,0,0,1,-2,3,SacramentoKings
+KesslerEdwards,0,0,0,1,0-1,0-0,0.0%,0-0,-,0,0,0,0,0,0,-8,-1,SacramentoKings
+SacramentoKings,106,47,26,240,29-53,12-40,44.1%,12-18,66.7%  ,13,34,9,6,3,17,-45,118,SacramentoKings

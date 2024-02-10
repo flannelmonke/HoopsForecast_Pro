@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+KyrieIrving,42,7,7,41,10-19,3-9,46.4%,13-15,86.7%,0,7,3,0,1,1,7,37,DallasMavericks
+TimHardawayJr.,41,2,2,41,2-8,9-15,47.8%,10-10,100.0%,0,2,4,1,0,0,-1,30,DallasMavericks
+JoshGreen,13,4,3,30,1-3,3-5,50.0%,2-6,33.3%,1,3,1,0,0,5,14,11,DallasMavericks
+GrantWilliams,7,3,7,31,2-3,1-4,42.9%,0-0,-,0,3,0,3,0,5,16,16,DallasMavericks
+DereckLively,6,12,1,26,2-2,0-0,100.0%,2-2,100.0%,7,5,2,0,0,4,-2,17,DallasMavericks
+JadenHardy,5,4,1,15,1-2,1-5,28.6%,0-0,-,1,3,0,0,0,2,0,5,DallasMavericks
+DwightPowell,4,4,2,16,2-2,0-0,100.0%,0-0,-,3,1,0,0,2,5,6,12,DallasMavericks
+MaximilianKleber,4,5,1,19,1-1,0-2,33.3%,2-2,100.0%,0,5,1,0,2,5,-12,9,DallasMavericks
+A.J.Lawson,3,1,0,14,0-1,1-2,33.3%,0-0,-,1,0,0,0,1,1,-1,3,DallasMavericks
+SethCurry,0,0,0,7,0-1,0-1,0.0%,0-0,-,0,0,0,0,0,1,-2,-2,DallasMavericks
+DallasMavericks,125,44,24,240,21-42,18-43,45.9%,29-35,82.9%  ,14,30,11,4,6,29,25,138,DallasMavericks
+ZionWilliamson,30,1,3,32,12-17,0-0,70.6%,6-11,54.5%,0,1,3,1,0,2,6,22,NewOrleansPelicans
+C.J.McCollum,23,6,4,29,6-10,3-7,52.9%,2-2,100.0%,0,6,0,1,0,5,15,26,NewOrleansPelicans
+LarryNance,14,8,2,26,4-7,1-4,45.5%,3-3,100.0%,1,7,1,3,0,1,16,20,NewOrleansPelicans
+TreyMurphyIII,14,3,0,22,1-1,1-4,40.0%,9-12,75.0%,0,3,0,1,0,0,-10,12,NewOrleansPelicans
+BrandonIngram,12,5,5,32,3-10,0-4,21.4%,6-8,75.0%,0,5,1,1,0,3,-19,9,NewOrleansPelicans
+HerbertJones,10,3,3,29,3-4,1-1,80.0%,1-1,100.0%,1,2,0,0,0,2,-14,15,NewOrleansPelicans
+JordanHawkins,9,1,0,21,2-2,1-2,75.0%,2-2,100.0%,0,1,0,1,0,3,8,10,NewOrleansPelicans
+JonasValanciunas,6,6,2,19,2-5,0-0,40.0%,2-2,100.0%,4,2,3,0,2,4,-22,10,NewOrleansPelicans
+DysonDaniels,2,3,2,19,1-1,0-1,50.0%,0-0,-,2,1,0,0,0,3,-20,6,NewOrleansPelicans
+NajiMarshall,0,1,0,9,0-1,0-0,0.0%,0-0,-,0,1,1,1,0,5,15,0,NewOrleansPelicans
+NewOrleansPelicans,120,43,21,240,34-58,7-23,50.6%,31-41,75.6%  ,12,31,9,9,2,28,-25,130,NewOrleansPelicans

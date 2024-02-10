@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+BrandonIngram,34,4,6,37,10-17,1-1,61.1%,11-12,91.7%,1,3,2,2,0,4,0,36,NewOrleansPelicans
+JonasValanciunas,22,14,1,33,8-11,1-1,75.0%,3-3,100.0%,4,10,2,1,1,5,5,34,NewOrleansPelicans
+C.J.McCollum,18,3,6,41,0-2,6-9,54.5%,0-0,-,0,3,1,1,1,2,9,23,NewOrleansPelicans
+ZionWilliamson,13,3,4,25,5-12,0-0,41.7%,3-4,75.0%,0,3,2,0,0,4,-13,10,NewOrleansPelicans
+TreyMurphyIII,7,3,0,21,2-5,0-1,33.3%,3-3,100.0%,0,3,1,0,0,2,-6,5,NewOrleansPelicans
+HerbertJones,7,1,2,30,2-5,1-5,30.0%,0-0,-,0,1,1,0,0,3,0,2,NewOrleansPelicans
+CodyZeller,4,6,1,13,1-3,0-0,33.3%,2-2,100.0%,4,2,1,0,1,1,-2,9,NewOrleansPelicans
+DysonDaniels,3,1,2,13,0-0,1-2,50.0%,0-0,-,0,1,0,0,0,1,17,5,NewOrleansPelicans
+NajiMarshall,3,2,1,17,0-3,1-4,14.3%,0-0,-,1,1,1,0,0,0,-11,-1,NewOrleansPelicans
+JoseAlvarado,2,2,0,8,1-2,0-2,25.0%,0-0,-,1,1,0,0,0,1,-9,1,NewOrleansPelicans
+NewOrleansPelicans,113,41,23,240,29-60,11-25,47.1%,22-24,91.7%  ,11,30,11,4,3,23,-10,124,NewOrleansPelicans
+JaMorant,34,6,8,35,12-19,0-5,50.0%,10-12,83.3%,3,3,5,2,1,2,12,32,MemphisGrizzlies
+JarenJacksonJr.,24,6,0,30,5-7,1-3,60.0%,11-15,73.3%,1,5,2,0,3,4,-2,23,MemphisGrizzlies
+DesmondBane,21,1,5,35,5-10,3-9,42.1%,2-2,100.0%,1,0,4,0,0,1,5,12,MemphisGrizzlies
+VinceWilliamsJr.,9,7,3,35,0-1,3-5,50.0%,0-0,-,1,6,1,0,1,1,-8,16,MemphisGrizzlies
+SantiagoAldama,8,3,0,16,1-2,2-2,75.0%,0-0,-,2,1,0,1,1,1,-5,12,MemphisGrizzlies
+BismackBiyombo,8,2,0,22,4-5,0-0,80.0%,0-0,-,0,2,1,1,1,3,3,10,MemphisGrizzlies
+XavierTillman,7,6,1,20,2-4,1-1,60.0%,0-0,-,2,4,1,1,0,3,3,12,MemphisGrizzlies
+ZiaireWilliams,4,2,0,18,2-2,0-3,40.0%,0-0,-,1,1,1,0,0,1,1,2,MemphisGrizzlies
+JohnKonchar,0,8,0,22,0-0,0-2,0.0%,0-0,-,1,7,1,0,0,3,-6,5,MemphisGrizzlies
+DavidRoddy,0,1,2,9,0-1,0-1,0.0%,0-0,-,1,0,1,0,0,0,7,0,MemphisGrizzlies
+MemphisGrizzlies,115,45,19,240,31-51,10-31,50.0%,23-29,79.3%  ,15,30,17,5,7,19,10,124,MemphisGrizzlies

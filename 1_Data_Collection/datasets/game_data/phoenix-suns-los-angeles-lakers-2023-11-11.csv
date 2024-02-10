@@ -1,0 +1,22 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+KevinDurant,38,9,5,39,9-21,4-6,48.1%,8-10,80.0%,1,8,4,0,0,4,8,32,PhoenixSuns
+BradleyBeal,24,4,2,32,7-13,2-4,52.9%,4-6,66.7%,2,2,2,2,0,4,-14,20,PhoenixSuns
+JusufNurkic,14,9,7,33,2-5,2-3,50.0%,4-7,57.1%,3,6,2,1,0,3,5,22,PhoenixSuns
+EricGordon,13,2,2,28,2-5,3-4,55.6%,0-0,-,1,1,1,3,0,0,3,15,PhoenixSuns
+KeitaBates-Diop,11,5,0,30,3-5,1-6,36.4%,2-2,100.0%,2,3,0,2,0,0,-6,11,PhoenixSuns
+GraysonAllen,9,9,4,32,3-4,1-4,50.0%,0-0,-,2,7,2,1,0,6,-5,17,PhoenixSuns
+JordanGoodwin,3,2,0,7,0-0,1-3,33.3%,0-0,-,1,1,0,0,0,0,-13,3,PhoenixSuns
+YutaWatanabe,3,1,0,14,0-1,1-3,25.0%,0-0,-,1,0,0,0,0,5,6,1,PhoenixSuns
+JoshOkogie,2,6,1,13,0-0,0-4,0.0%,2-2,100.0%,2,4,0,0,0,0,7,5,PhoenixSuns
+DrewEubanks,2,5,1,14,1-3,0-0,33.3%,0-0,-,2,3,2,0,1,2,-6,5,PhoenixSuns
+PhoenixSuns,119,53,22,240,27-57,15-37,44.7%,20-27,74.1%  ,18,35,13,9,1,24,-15,131,PhoenixSuns
+LeBronJames,32,11,6,36,8-13,3-4,64.7%,7-11,63.6%,1,10,4,1,1,1,2,37,LosAngelesLakers
+D&#039;AngeloRussell,19,3,9,29,6-9,0-3,50.0%,7-9,77.8%,0,3,1,0,1,4,1,23,LosAngelesLakers
+AnthonyDavis,18,11,4,36,5-14,0-0,35.7%,8-8,100.0%,4,7,1,0,1,3,-5,24,LosAngelesLakers
+CameronReddish,17,3,0,28,0-2,5-8,50.0%,2-2,100.0%,1,2,0,3,0,3,7,18,LosAngelesLakers
+AustinReaves,15,1,7,35,4-7,2-4,54.5%,1-1,100.0%,0,1,2,1,0,1,-2,17,LosAngelesLakers
+RuiHachimura,7,3,1,20,2-3,1-3,50.0%,0-1,0.0%,0,3,1,4,1,3,6,11,LosAngelesLakers
+TaureanPrince,7,1,0,33,3-4,0-4,37.5%,1-2,50.0%,0,1,0,0,2,4,3,4,LosAngelesLakers
+ChristianWood,5,9,0,18,1-4,1-1,40.0%,0-0,-,3,6,1,0,1,0,8,11,LosAngelesLakers
+JaxsonHayes,2,1,0,5,1-1,0-0,100.0%,0-0,-,0,1,1,0,0,1,-5,2,LosAngelesLakers
+LosAngelesLakers,122,47,27,240,30-57,12-27,50.0%,26-34,76.5%  ,11,36,12,9,7,20,15,147,LosAngelesLakers

@@ -1,0 +1,23 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+FranzWagner,31,7,8,34,8-14,1-3,52.9%,12-14,85.7%,1,6,0,0,0,0,0,36,OrlandoMagic
+PaoloBanchero,28,13,7,38,8-16,3-4,55.0%,3-3,100.0%,3,10,2,0,0,2,1,37,OrlandoMagic
+MoritzWagner,18,6,0,23,8-11,0-2,61.5%,2-3,66.7%,4,2,3,1,1,1,9,17,OrlandoMagic
+JalenSuggs,15,2,4,27,3-3,2-6,55.6%,3-5,60.0%,0,2,3,3,2,4,10,17,OrlandoMagic
+JoeIngles,14,3,7,25,2-4,3-7,45.5%,1-1,100.0%,0,3,0,0,0,3,13,18,OrlandoMagic
+GaryHarris,8,0,0,22,2-3,1-6,33.3%,1-2,50.0%,0,0,1,0,0,0,-11,0,OrlandoMagic
+AnthonyBlack,6,2,3,23,1-3,1-1,50.0%,1-2,50.0%,0,2,1,0,1,3,-5,8,OrlandoMagic
+ColeAnthony,4,1,2,17,1-3,0-0,33.3%,2-2,100.0%,0,1,1,2,1,5,-4,7,OrlandoMagic
+GogaBitadze,3,5,4,24,0-0,1-1,100.0%,0-0,-,1,4,3,0,2,4,2,11,OrlandoMagic
+JonathanIsaac,3,5,0,7,1-1,0-1,50.0%,1-1,100.0%,1,4,0,0,1,1,10,8,OrlandoMagic
+OrlandoMagic,130,44,35,240,34-58,12-31,51.7%,26-33,78.8%  ,10,34,14,6,8,23,25,159,OrlandoMagic
+KyleKuzma,27,6,1,37,8-12,2-6,55.6%,5-6,83.3%,1,5,6,1,2,6,-7,22,WashingtonWizards
+DanielGafford,18,11,3,27,7-10,0-0,70.0%,4-7,57.1%,4,7,1,0,3,5,-1,28,WashingtonWizards
+CoreyKispert,15,1,3,23,0-5,4-6,36.4%,3-4,75.0%,0,1,0,0,0,2,-2,11,WashingtonWizards
+JordanPoole,14,4,4,30,3-7,0-5,25.0%,8-9,88.9%,0,4,2,1,0,5,-4,11,WashingtonWizards
+TyusJones,13,3,6,26,2-5,3-5,50.0%,0-0,-,0,3,0,2,0,2,-4,19,WashingtonWizards
+LandryShamet,13,0,2,18,2-5,3-3,62.5%,0-3,0.0%,0,0,2,0,0,4,3,7,WashingtonWizards
+BilalCoulibaly,12,5,0,32,6-7,0-0,85.7%,0-0,-,1,4,2,3,0,1,1,17,WashingtonWizards
+DaniloGallinari,7,6,1,21,2-3,1-1,75.0%,0-0,-,1,5,1,1,0,2,-4,13,WashingtonWizards
+DeniAvdija,6,3,5,20,2-5,0-2,28.6%,2-2,100.0%,0,3,0,0,0,1,-5,9,WashingtonWizards
+JonathanDavis,0,1,0,6,0-2,0-0,0.0%,0-0,-,1,0,0,0,0,1,-2,-1,WashingtonWizards
+WashingtonWizards,125,40,25,240,32-61,13-28,50.6%,22-31,71.0%  ,8,32,14,8,5,29,-25,136,WashingtonWizards
