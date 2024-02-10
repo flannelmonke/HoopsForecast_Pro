@@ -2,7 +2,7 @@ import re
 import pandas as pd
 import urllib.request
 
-links = open('links.txt', 'r')
+links = open('./GIT_NO/game_links.txt', 'r')
 links = links.readlines()
 
 
@@ -92,5 +92,5 @@ for link in links[100:200]:
 
     # Export to csv
     file_name = url.split('/')[-1] + '.csv'
-    game_data.to_csv("./datasets/"+file_name, index=False)
+    game_data.to_csv("./1_Data_Collection/datasets/game_data/"+file_name, index=False)
     print("Data frame exported to: " + file_name)
