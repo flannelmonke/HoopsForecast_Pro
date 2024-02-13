@@ -1,6 +1,6 @@
 # Data Science Project: Predictive Model for Basketball Games
 
-## 1. Introduction
+## 1. [Introduction](./README.md)
    - Brief overview of the project
    - Importance of predicting basketball game outcomes
    - Objectives and goals
@@ -9,7 +9,7 @@
    - Clearly define the problem statement
    - Specify what you want to predict (e.g., game winner, point difference, player performance)
 
-## 3. Data Collection
+## 3. [Data Collection](./1_Data_Collection/webscraping_notebook.ipynb)
    - Identify and gather relevant data sources
      - Historical game data
      - Player statistics
@@ -18,7 +18,7 @@
      - Injury reports
    - Consider APIs, databases, or scraping techniques
 
-## 4. Data Cleaning and Preprocessing
+## 4. [Data Cleaning and Preprocessing](./2_Data_Preprocessing/Data_Pre_Processing.ipynb)
    - Handle missing values
    - Remove duplicates
    - Standardize/normalize numerical features
@@ -41,7 +41,7 @@
 
 ## 8. Model Training
    - Train the selected models on the training dataset
-   - Fine-tune hyperparameters to improve model performance
+   - Fine-tune hyperparameter to improve model performance
    - Validate models using cross-validation techniques
 
 ## 9. Model Evaluation
@@ -50,7 +50,7 @@
    - Compare multiple models to select the best-performing one
 
 ## 10. Hyperparameter Tuning
-   - Fine-tune model hyperparameters using techniques like grid search or random search
+   - Fine-tune model hyperparameter using techniques like grid search or random search
    - Optimize the model for better performance
 
 ## 11. Deployment
