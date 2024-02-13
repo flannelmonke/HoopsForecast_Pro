@@ -1,0 +1,29 @@
+PLAYER,Pts,Reb,Ast,MIN,2M-2A,3M-3A,FG%,1M-1A,1%,Or,Dr,To,Stl,Blk,Fo,+/-,Eff,Team
+LukaDoncic,25,10,7,32,4-12,3-7,36.8%,8-10,80.0%,1,9,2,3,0,0,-14,29,DallasMavericks
+KyrieIrving,23,2,1,33,6-11,2-6,47.1%,5-5,100.0%,0,2,1,0,0,2,-19,16,DallasMavericks
+TimHardawayJr.,14,2,2,27,3-7,2-4,45.5%,2-2,100.0%,0,2,0,0,0,3,-9,12,DallasMavericks
+JoshGreen,11,4,5,26,2-3,2-5,50.0%,1-2,50.0%,1,3,1,2,0,2,-1,16,DallasMavericks
+DanteExum,8,2,4,15,4-4,0-1,80.0%,0-0,-,0,2,0,0,0,0,-3,13,DallasMavericks
+RichaunHolmes,7,2,0,5,3-3,0-0,100.0%,1-2,50.0%,2,0,0,0,0,1,5,8,DallasMavericks
+GrantWilliams,7,3,2,20,2-2,1-4,50.0%,0-2,0.0%,2,1,1,0,0,1,-7,6,DallasMavericks
+DereckLively,6,9,0,29,3-6,0-0,50.0%,0-0,-,5,4,1,1,2,3,-16,14,DallasMavericks
+DerrickJones,6,2,0,19,1-2,1-2,50.0%,1-1,100.0%,0,2,1,0,0,0,-21,5,DallasMavericks
+JadenHardy,4,0,0,10,0-2,1-2,25.0%,1-2,50.0%,0,0,1,1,0,2,0,0,DallasMavericks
+MarkieffMorris,2,0,1,5,1-2,0-2,25.0%,0-0,-,0,0,0,0,0,0,5,0,DallasMavericks
+Olivier-MaxenceProsper,0,3,0,5,0-0,0-1,0.0%,0-0,-,0,3,0,0,0,0,5,2,DallasMavericks
+DwightPowell,0,1,1,13,0-0,0-0,-,0-0,-,0,1,2,1,0,1,-5,1,DallasMavericks
+DallasMavericks,113,42,23,240,29-54,12-34,46.6%,19-26,73.1%  ,13,29,10,8,2,15,-80,122,DallasMavericks
+DomantasSabonis,32,13,6,35,13-13,0-2,86.7%,6-10,60.0%,3,10,1,0,0,2,16,44,SacramentoKings
+De&#039;AaronFox,30,4,7,31,4-10,6-10,50.0%,4-5,80.0%,1,3,0,3,0,1,2,33,SacramentoKings
+KeeganMurray,17,3,4,33,5-6,2-7,53.8%,1-1,100.0%,3,0,1,1,0,5,21,18,SacramentoKings
+ChrisDuarte,13,8,4,33,2-4,3-4,62.5%,0-0,-,0,8,1,2,0,3,6,23,SacramentoKings
+HarrisonBarnes,12,4,6,34,3-4,1-7,36.4%,3-3,100.0%,2,2,3,1,0,1,17,13,SacramentoKings
+MalikMonk,12,2,3,18,0-3,4-6,44.4%,0-0,-,0,2,2,1,1,2,9,12,SacramentoKings
+SashaVezenkov,7,1,1,13,2-3,1-2,60.0%,0-0,-,1,0,1,0,1,2,2,7,SacramentoKings
+JaValeMcGee,6,7,1,9,2-4,0-0,50.0%,2-2,100.0%,2,5,1,1,1,1,3,13,SacramentoKings
+KeonEllis,0,4,0,9,0-0,0-0,-,0-0,-,1,3,0,0,0,1,9,4,SacramentoKings
+KesslerEdwards,0,1,1,9,0-1,0-0,0.0%,0-0,-,1,0,0,0,0,0,0,1,SacramentoKings
+JalenSlawson,0,1,0,4,0-0,0-0,-,0-0,-,0,1,0,0,0,0,-3,1,SacramentoKings
+ColbyJones,0,0,0,4,0-0,0-1,0.0%,0-0,-,0,0,0,0,0,2,-3,-1,SacramentoKings
+DavionMitchell,0,0,1,9,0-2,0-1,0.0%,0-0,-,0,0,2,0,0,0,1,-4,SacramentoKings
+SacramentoKings,129,53,34,240,31-50,17-40,53.3%,16-21,76.2%  ,18,35,15,9,3,20,80,164,SacramentoKings

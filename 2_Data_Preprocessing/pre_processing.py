@@ -39,13 +39,17 @@ def remodel(df: pd.DataFrame):
 # Load data and preprocess
 dir = "./1_Data_Collection/datasets/game_data/"
 directory = os.fsencode(dir)
+print(os.listdir(directory))
 
 for file in os.listdir(directory)[1:-1]:
     filename = os.fsdecode(file)
     if filename.endswith(".csv"):
         print(filename)
         data = pd.read_csv(dir+filename)
-        remodel(data)
+        try:
+            remodel(data)
+        except:
+            continue
         data.to_csv(dir+filename, index=False)
         print("Preprocessing complete for file " + filename + "." + "\n")
     else:
