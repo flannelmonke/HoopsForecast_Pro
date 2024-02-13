@@ -6,7 +6,7 @@ links = open('./GIT_NO/links/game_links.txt', 'r')
 links = links.readlines()
 
 
-for link in links[200:300]:
+for link in links[300:400]:
     url = link.strip()
 
     fp = urllib.request.urlopen(url)
