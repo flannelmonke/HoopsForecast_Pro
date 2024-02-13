@@ -56,6 +56,8 @@ Feel free to contribute to the project by opening issues, suggesting improvement
 ## License
 
 This project is licensed under the MIT License.
+
 ## Acknowledgments
 
 Proballers website for providing the NBA player statistics.
+ESPN Hollinger Columnist
