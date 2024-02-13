@@ -2,11 +2,11 @@ import re
 import pandas as pd
 import urllib.request
 
-links = open('./GIT_NO/game_links.txt', 'r')
+links = open('./GIT_NO/links/game_links.txt', 'r')
 links = links.readlines()
 
 
-for link in links[100:200]:
+for link in links[200:300]:
     url = link.strip()
 
     fp = urllib.request.urlopen(url)
