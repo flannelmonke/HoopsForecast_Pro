@@ -37,7 +37,7 @@ def remodel(df: pd.DataFrame):
 
 
 # Load data and preprocess
-dir = "./datasets/game_data/"
+dir = "./finalized_scripts/datasets/game_data/"
 directory = os.fsencode(dir)
 print(os.listdir(directory))
 
