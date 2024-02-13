@@ -94,7 +94,7 @@ ESPN Hollinger Columnist
    - Convert categorical variables (team names, player positions) into numerical representations
    - Feature engineering (create new features based on existing ones)
 
-### 5. Exploratory Data Analysis (EDA)
+### 5. [Exploratory Data Analysis (EDA)](./3_EDA/Understanding_data.ipynb)
    - Understand the distribution of key variables
    - Identify correlations between variables
    - Visualize patterns and trends
