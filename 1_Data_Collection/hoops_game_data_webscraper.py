@@ -6,7 +6,41 @@ links = open('./GIT_NO/links/game_links.txt', 'r')
 links = links.readlines()
 
 
-for link in links[300:400]:
+def remodel(df: pd.DataFrame):
+    _2M, _2A, _3M, _3A, _1M, _1A = [], [], [], [], [], []
+    for index, row in df.iterrows():
+        if '2M-2A' in row and isinstance(row['2M-2A'], str):
+            _2M.append(int(row['2M-2A'].split('-')[0]))
+            _2A.append(int(row['2M-2A'].split('-')[1]))
+        if '3M-3A' in row and isinstance(row['3M-3A'], str):
+            _3M.append(int(row['3M-3A'].split('-')[0]))
+            _3A.append(int(row['3M-3A'].split('-')[1]))
+        if '1M-1A' in row and isinstance(row['1M-1A'], str):
+            _1M.append(int(row['1M-1A'].split('-')[0]))
+            _1A.append(int(row['1M-1A'].split('-')[1]))
+        try:
+            if 'FG%' in row:
+                df.at[index, 'FG%'] = float(row['FG%'].rstrip('%'))
+            else:
+                df.at[index, 'FG%'] = 0
+        except:
+            df.at[index, 'FG%'] = 0
+        try:
+            if '1%' in row:
+                df.at[index, '1%'] = float(row['1%'].rstrip('%'))
+            else:
+                df.at[index, '1%'] = 0
+        except:
+            df.at[index, '1%'] = 0
+    df.insert(3, '2M', _2M)
+    df.insert(4, '2A', _2A)
+    df.insert(5, '3M', _3M)
+    df.insert(6, '3A', _3A)
+    df.insert(7, '1M', _1M)
+    df.insert(8, '1A', _1A) 
+
+
+for link in links[400:500]:
     url = link.strip()
 
     fp = urllib.request.urlopen(url)
@@ -90,7 +124,10 @@ for link in links[300:400]:
     # Merge the two dataframes
     game_data = pd.concat([team_1_panda, team_2_panda], axis=0)
 
+    remodel(game_data)
+    game_data = game_data.drop(columns=["1M-1A", "2M-2A", "3M-3A"], axis=1)
+
     # Export to csv
     file_name = url.split('/')[-1] + '.csv'
-    game_data.to_csv("./1_Data_Collection/datasets/game_data/"+file_name, index=False)
+    game_data.to_csv("./finalized_scripts/datasets/game_data/"+file_name, index=False)
     print("Data frame exported to: " + file_name)
