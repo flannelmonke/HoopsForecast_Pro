@@ -40,7 +40,7 @@ def remodel(df: pd.DataFrame):
     df.insert(8, '1A', _1A) 
 
 
-for link in links[301:400]:
+for link in links[500:600]:
     url = link.strip()
 
     fp = urllib.request.urlopen(url)
