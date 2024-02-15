@@ -2,7 +2,7 @@ import pandas as pd
 import re
 import urllib.request as ur
 
-links = open('./GIT_NO/links/hollinger_players.txt', 'r')
+links = open('./GIT_NO/links/hollinger_teams.txt', 'r')
 links = links.readlines()
 master_df = pd.DataFrame()
 print("links found: ", len(links))
@@ -29,6 +29,7 @@ for link in links:
     """
     Remove the HTML anchor tags from the headers
     """
+    
     table_headers = [re.sub(r'(<a .*\">|<\/a>)', '', header) for header in table_headers]
 
     print("Table headers found: ", len(table_headers), "\n")
@@ -37,7 +38,7 @@ for link in links:
         Find the player stats
     """
     # player_stats_raw = re.findall(r'(<td class=\".*\">[\s\S]*?<\/td>)', table)
-    player_stats_raw = re.findall(r'<tr class="(oddrow player|evenrow player)-\d+-\d+" align="right">(.*?)</tr>', table)
+    player_stats_raw = re.findall(r'<tr class="(oddrow team|evenrow team)-\d+-\d+" align="right">(.*?)</tr>', table)
     player_stats_raw = [re.findall(r'<td.*?>(.*?)</td>', player[1]) for player in player_stats_raw]
     player_stats_raw = [re.sub(r'(<a href=.*">|</a>|,.*|[\s])', '', stat) for player in player_stats_raw for stat in player]
 
@@ -48,4 +49,4 @@ for link in links:
     df = pd.DataFrame(player_data)
     master_df = pd.concat([master_df, df], ignore_index=True)
     
-master_df.to_csv('./finalized_scripts/datasets/player_stats/hollinger-player-stats.csv', index=False)
+master_df.to_csv('./finalized_scripts/datasets/player_stats/hollinger-team-stats.csv', index=False)
