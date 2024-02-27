@@ -1,3 +1,6 @@
 /GIT_NO/
 .idea/
 .vscode/
+4_Model_Exploration/.venv/*
+4_Model_Exploration/NN_Model/*
+4_Model_Exploration/test/*
